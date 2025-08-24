@@ -104,11 +104,12 @@
 ---
 
 ## ⏱️ WakaTime Stats
+<div align="center">
 
 <!--START_SECTION:waka-->
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gauravyad69&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=radical)
 <!--END_SECTION:waka-->
-
+</div>
 ---
 
 ## 📊 Profile Views
