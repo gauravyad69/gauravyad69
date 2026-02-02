@@ -71,28 +71,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=gauravyad69&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gauravyad69&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 📈 Most Used Languages
-
-<div align="center">
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravyad69&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-</div>
-
----
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
