@@ -128,24 +128,24 @@ Sunday                   381 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-Markdown                 1 hr 33 mins        ██████░░░░░░░░░░░░░░░░░░░   25.16 % 
-Python                   1 hr 17 mins        █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
-C                        1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
-TypeScript               41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
-Bash                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
+Markdown                 1 hr 33 mins        ███████░░░░░░░░░░░░░░░░░░   26.58 % 
+Python                   1 hr 10 mins        █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
+C                        1 hr 3 mins         █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
+TypeScript               41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
+Bash                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 12 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 53 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Canon-LBP2900B           2 hrs 33 mins       ██████████░░░░░░░░░░░░░░░   41.28 % 
-rr3                      1 hr 6 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
-vendetta-plugins         50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
-dotfiles                 49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-badara_type              32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
+Canon-LBP2900B           2 hrs 33 mins       ███████████░░░░░░░░░░░░░░   43.60 % 
+rr3                      1 hr 6 mins         █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
+vendetta-plugins         50 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
+dotfiles                 49 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
+badara_type              32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
 
 💻 Operating System: 
-Linux                    6 hrs 12 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -165,7 +165,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gauravyad69/gauravyad69/main/assets/bar_graph.png)
 
 
- Last Updated on 16/02/2026 19:10:05 UTC
+ Last Updated on 17/02/2026 19:30:11 UTC
 <!--END_SECTION:waka-->
 </div>
 ---
