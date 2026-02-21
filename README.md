@@ -85,7 +85,7 @@
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-204%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-206%20hrs%2022%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -128,24 +128,24 @@ Sunday                   381 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-Python                   3 hrs 27 mins       ███████████░░░░░░░░░░░░░░   42.13 % 
-Markdown                 1 hr 31 mins        █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
-C                        1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
-TypeScript               41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
-Text                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+Python                   2 hrs 53 mins       ███████████░░░░░░░░░░░░░░   42.86 % 
+Caddyfile                47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
+TypeScript               41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
+Text                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
+Git Config               34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 11 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 43 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-rr3                      3 hrs 57 mins       ████████████░░░░░░░░░░░░░   48.24 % 
-Canon-LBP2900B           2 hrs 33 mins       ████████░░░░░░░░░░░░░░░░░   31.30 % 
-vendetta-plugins         50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
-dotfiles                 49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
-RevengePlugins           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+rr3                      4 hrs 40 mins       █████████████████░░░░░░░░   69.45 % 
+vendetta-plugins         50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+dotfiles                 49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
+comparsionrr3assets      22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+RevengePlugins           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 💻 Operating System: 
-Linux                    8 hrs 11 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -165,7 +165,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gauravyad69/gauravyad69/main/assets/bar_graph.png)
 
 
- Last Updated on 20/02/2026 19:13:25 UTC
+ Last Updated on 21/02/2026 19:00:49 UTC
 <!--END_SECTION:waka-->
 </div>
 ---
