@@ -85,7 +85,7 @@
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-212%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-214%20hrs%2018%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -104,21 +104,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                300 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
-🌆 Daytime                1080 commits        ████████░░░░░░░░░░░░░░░░░   32.43 % 
-🌃 Evening                1724 commits        █████████████░░░░░░░░░░░░   51.77 % 
-🌙 Night                  226 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
+🌞 Morning                300 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
+🌆 Daytime                1084 commits        ████████░░░░░░░░░░░░░░░░░   32.50 % 
+🌃 Evening                1725 commits        █████████████░░░░░░░░░░░░   51.72 % 
+🌙 Night                  226 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   400 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
-Tuesday                  375 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
-Wednesday                606 commits         █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
-Thursday                 504 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
-Friday                   428 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
-Saturday                 563 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
-Sunday                   454 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
+Monday                   400 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
+Tuesday                  375 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
+Wednesday                607 commits         █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
+Thursday                 508 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+Friday                   428 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
+Saturday                 563 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
+Sunday                   454 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
 ```
 
 
@@ -128,23 +128,23 @@ Sunday                   454 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-Python                   2 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   26.09 % 
-Markdown                 1 hr 41 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
-Text                     1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
-JavaScript               1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
-CSS                      53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+Python                   3 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   24.91 % 
+Markdown                 1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
+Text                     1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+JavaScript               1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
+Other                    1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 27 mins      █████████████████████████   100.00 % 
+VS Code                  12 hrs 34 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-rr3                      8 hrs 32 mins       ████████████████████░░░░░   81.69 % 
-dotfiles                 1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
-comparsionrr3assets      22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
-mrhell                   17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+rr3                      10 hrs 39 mins      █████████████████████░░░░   84.81 % 
+dotfiles                 1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
+comparsionrr3assets      22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+mrhell                   17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
 
 💻 Operating System: 
-Linux                    10 hrs 27 mins      █████████████████████████   100.00 % 
+Linux                    12 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -164,7 +164,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gauravyad69/gauravyad69/main/assets/bar_graph.png)
 
 
- Last Updated on 23/02/2026 19:40:04 UTC
+ Last Updated on 24/02/2026 19:33:30 UTC
 <!--END_SECTION:waka-->
 </div>
 ---
