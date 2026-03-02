@@ -85,7 +85,7 @@
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-216%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-219%20hrs%2020%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -93,7 +93,7 @@
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 286 Contributions in the Year 2026
+> 🏆 287 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -128,23 +128,23 @@ Sunday                   454 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-Other                    1 hr 36 mins        █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Markdown                 1 hr 36 mins        █████░░░░░░░░░░░░░░░░░░░░   19.97 % 
-Python                   1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
-JSON                     59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
-Lua                      47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
+Other                    1 hr 33 mins        █████░░░░░░░░░░░░░░░░░░░░   21.53 % 
+Python                   1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
+HTML                     1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
+JSON                     54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
+Markdown                 48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 1 min         █████████████████████████   100.00 % 
+VS Code                  7 hrs 15 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-rr3                      4 hrs 57 mins       ███████████████░░░░░░░░░░   61.72 % 
-dotfiles                 1 hr 29 mins        █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
-be_speed                 1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-mrhell                   12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+rr3                      4 hrs 18 mins       ███████████████░░░░░░░░░░   59.32 % 
+be_speed                 1 hr 23 mins        █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
+formula_SEE              1 hr 12 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
+dotfiles                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
 
 💻 Operating System: 
-Linux                    8 hrs 1 min         █████████████████████████   100.00 % 
+Linux                    7 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -164,7 +164,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gauravyad69/gauravyad69/main/assets/bar_graph.png)
 
 
- Last Updated on 01/03/2026 18:58:33 UTC
+ Last Updated on 02/03/2026 19:13:58 UTC
 <!--END_SECTION:waka-->
 </div>
 ---
