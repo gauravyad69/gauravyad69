@@ -128,25 +128,25 @@ Sunday                   454 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-Python                   3 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   25.98 % 
-Markdown                 3 hrs               █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
-Java                     1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
-Other                    1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
-HTML                     1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
+Python                   3 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   28.83 % 
+Markdown                 2 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   20.74 % 
+Java                     1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
+HTML                     1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+Text                     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 16 mins      █████████████████████████   99.50 % 
-Android Studio           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+VS Code                  11 hrs 51 mins      █████████████████████████   99.39 % 
+Android Studio           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 🐱‍💻 Projects: 
-rr3                      6 hrs 37 mins       ████████████░░░░░░░░░░░░░   46.22 % 
-NewBlackbox              2 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
-freefare                 1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
-be_speed                 1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
-formula_SEE              1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
+rr3                      5 hrs 57 mins       ████████████░░░░░░░░░░░░░   49.93 % 
+NewBlackbox              2 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
+freefare                 1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+formula_SEE              1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
+radare2-mcp              20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
 
 💻 Operating System: 
-Linux                    14 hrs 20 mins      █████████████████████████   100.00 % 
+Linux                    11 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -166,7 +166,7 @@ Smali                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gauravyad69/gauravyad69/main/assets/bar_graph.png)
 
 
- Last Updated on 06/03/2026 19:10:54 UTC
+ Last Updated on 07/03/2026 18:57:23 UTC
 <!--END_SECTION:waka-->
 </div>
 ---
