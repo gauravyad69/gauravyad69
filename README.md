@@ -85,7 +85,7 @@
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-228%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-228%20hrs%2048%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -128,25 +128,25 @@ Sunday                   454 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-Python                   3 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   28.83 % 
-Markdown                 2 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   20.74 % 
-Java                     1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
-HTML                     1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
-Text                     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+Python                   3 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   28.08 % 
+Markdown                 2 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   20.43 % 
+Java                     1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+HTML                     1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+Text                     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 51 mins      █████████████████████████   99.39 % 
-Android Studio           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+VS Code                  12 hrs 2 mins       █████████████████████████   99.40 % 
+Android Studio           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 
 🐱‍💻 Projects: 
-rr3                      5 hrs 57 mins       ████████████░░░░░░░░░░░░░   49.93 % 
-NewBlackbox              2 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
-freefare                 1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
-formula_SEE              1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
-radare2-mcp              20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+rr3                      5 hrs 55 mins       ████████████░░░░░░░░░░░░░   48.87 % 
+NewBlackbox              2 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   21.61 % 
+freefare                 1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
+formula_SEE              1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+radare2-mcp              20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
 
 💻 Operating System: 
-Linux                    11 hrs 55 mins      █████████████████████████   100.00 % 
+Linux                    12 hrs 6 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -166,7 +166,7 @@ Smali                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gauravyad69/gauravyad69/main/assets/bar_graph.png)
 
 
- Last Updated on 07/03/2026 18:57:23 UTC
+ Last Updated on 08/03/2026 18:58:57 UTC
 <!--END_SECTION:waka-->
 </div>
 ---
