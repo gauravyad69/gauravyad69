@@ -93,7 +93,7 @@
 
 > 📦 1.2 MB Used in GitHub's Storage 
  > 
-> 🏆 305 Contributions in the Year 2026
+> 🏆 310 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -104,21 +104,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                304 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
-🌆 Daytime                1103 commits        ████████░░░░░░░░░░░░░░░░░   32.71 % 
-🌃 Evening                1739 commits        █████████████░░░░░░░░░░░░   51.57 % 
-🌙 Night                  226 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
+🌞 Morning                304 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
+🌆 Daytime                1103 commits        ████████░░░░░░░░░░░░░░░░░   32.67 % 
+🌃 Evening                1743 commits        █████████████░░░░░░░░░░░░   51.63 % 
+🌙 Night                  226 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   404 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
-Tuesday                  383 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
-Wednesday                614 commits         █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
-Thursday                 522 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
-Friday                   431 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
-Saturday                 564 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
-Sunday                   454 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+Monday                   404 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+Tuesday                  383 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
+Wednesday                614 commits         █████░░░░░░░░░░░░░░░░░░░░   18.19 % 
+Thursday                 522 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
+Friday                   431 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+Saturday                 568 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
+Sunday                   454 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
 ```
 
 
@@ -128,25 +128,25 @@ Sunday                   454 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-Python                   3 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   28.08 % 
-Markdown                 2 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   20.43 % 
-Java                     1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
-HTML                     1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
-Text                     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+Python                   2 hrs 51 mins       ████████░░░░░░░░░░░░░░░░░   30.28 % 
+Markdown                 2 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   23.90 % 
+Java                     1 hr 30 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
+Groovy                   33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+Text                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 2 mins       █████████████████████████   99.40 % 
-Android Studio           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+VS Code                  9 hrs 23 mins       █████████████████████████   99.24 % 
+Android Studio           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 
 🐱‍💻 Projects: 
-rr3                      5 hrs 55 mins       ████████████░░░░░░░░░░░░░   48.87 % 
-NewBlackbox              2 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   21.61 % 
-freefare                 1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
-formula_SEE              1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-radare2-mcp              20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+rr3                      4 hrs 28 mins       ████████████░░░░░░░░░░░░░   47.37 % 
+NewBlackbox              2 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   27.66 % 
+freefare                 1 hr 45 mins        █████░░░░░░░░░░░░░░░░░░░░   18.56 % 
+radare2-mcp              20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+dotfiles                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
 
 💻 Operating System: 
-Linux                    12 hrs 6 mins       █████████████████████████   100.00 % 
+Linux                    9 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -166,7 +166,7 @@ Smali                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gauravyad69/gauravyad69/main/assets/bar_graph.png)
 
 
- Last Updated on 08/03/2026 18:58:57 UTC
+ Last Updated on 09/03/2026 19:17:02 UTC
 <!--END_SECTION:waka-->
 </div>
 ---
