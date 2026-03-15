@@ -128,22 +128,22 @@ Sunday                   454 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-C                        2 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   31.62 % 
-JSON                     2 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   29.07 % 
-C#                       1 hr 12 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
-Java                     40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
-C++                      29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
+C                        2 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   31.59 % 
+JSON                     2 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   29.04 % 
+C#                       1 hr 12 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
+Java                     40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
+C++                      29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 22 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 23 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-freefare                 6 hrs 4 mins        █████████████████████░░░░   82.40 % 
-NewBlackbox              1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
+freefare                 6 hrs 4 mins        █████████████████████░░░░   82.31 % 
+NewBlackbox              1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
 radare2-mcp              7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
 
 💻 Operating System: 
-Linux                    7 hrs 22 mins       █████████████████████████   100.00 % 
+Linux                    7 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -163,7 +163,7 @@ Smali                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gauravyad69/gauravyad69/main/assets/bar_graph.png)
 
 
- Last Updated on 14/03/2026 19:05:34 UTC
+ Last Updated on 15/03/2026 19:06:14 UTC
 <!--END_SECTION:waka-->
 </div>
 ---
