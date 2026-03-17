@@ -128,23 +128,22 @@ Sunday                   454 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-C                        2 hrs 33 mins       ████████░░░░░░░░░░░░░░░░░   32.11 % 
-JSON                     2 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   29.11 % 
-C#                       1 hr 12 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
-Java                     51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-C++                      29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+JSON                     2 hrs 19 mins       ███████████░░░░░░░░░░░░░░   42.68 % 
+C#                       1 hr 12 mins        ██████░░░░░░░░░░░░░░░░░░░   22.16 % 
+C                        1 hr 3 mins         █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
+Java                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
+Text                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 57 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 25 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-freefare                 6 hrs 10 mins       ███████████████████░░░░░░   77.51 % 
-NewBlackbox              57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-Unknown Project          42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
-radare2-mcp              7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+freefare                 4 hrs 35 mins       █████████████████████░░░░   84.53 % 
+Unknown Project          42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+radare2-mcp              7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
 
 💻 Operating System: 
-Linux                    7 hrs 57 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -164,7 +163,7 @@ Smali                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gauravyad69/gauravyad69/main/assets/bar_graph.png)
 
 
- Last Updated on 16/03/2026 19:36:35 UTC
+ Last Updated on 17/03/2026 19:36:51 UTC
 <!--END_SECTION:waka-->
 </div>
 ---
