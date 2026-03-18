@@ -104,20 +104,20 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                310 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
-🌆 Daytime                1118 commits        ████████░░░░░░░░░░░░░░░░░   32.88 % 
-🌃 Evening                1745 commits        █████████████░░░░░░░░░░░░   51.32 % 
-🌙 Night                  227 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
+🌞 Morning                310 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+🌆 Daytime                1118 commits        ████████░░░░░░░░░░░░░░░░░   32.87 % 
+🌃 Evening                1746 commits        █████████████░░░░░░░░░░░░   51.34 % 
+🌙 Night                  227 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
 Monday                   408 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
 Tuesday                  384 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-Wednesday                618 commits         █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-Thursday                 532 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
+Wednesday                619 commits         █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
+Thursday                 532 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
 Friday                   436 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
-Saturday                 568 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
+Saturday                 568 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
 Sunday                   454 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
 ```
 
@@ -128,22 +128,22 @@ Sunday                   454 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-JSON                     2 hrs 19 mins       ███████████░░░░░░░░░░░░░░   42.68 % 
-C#                       1 hr 12 mins        ██████░░░░░░░░░░░░░░░░░░░   22.16 % 
-C                        1 hr 3 mins         █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
-Java                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
-Text                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
+JSON                     1 hr 34 mins        ███████████░░░░░░░░░░░░░░   43.62 % 
+C                        1 hr 2 mins         ███████░░░░░░░░░░░░░░░░░░   28.93 % 
+Java                     24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
+Text                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+Rebol                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 25 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 36 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-freefare                 4 hrs 35 mins       █████████████████████░░░░   84.53 % 
-Unknown Project          42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
-radare2-mcp              7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+freefare                 2 hrs 46 mins       ███████████████████░░░░░░   76.72 % 
+Unknown Project          42 mins             █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
+radare2-mcp              7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
 
 💻 Operating System: 
-Linux                    5 hrs 25 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 36 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -163,7 +163,7 @@ Smali                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gauravyad69/gauravyad69/main/assets/bar_graph.png)
 
 
- Last Updated on 17/03/2026 19:36:51 UTC
+ Last Updated on 18/03/2026 19:32:45 UTC
 <!--END_SECTION:waka-->
 </div>
 ---
