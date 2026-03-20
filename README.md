@@ -128,24 +128,23 @@ Sunday                   454 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-Kotlin                   33 mins             ███████░░░░░░░░░░░░░░░░░░   26.90 % 
-JSON                     32 mins             ███████░░░░░░░░░░░░░░░░░░   26.85 % 
-C                        32 mins             ███████░░░░░░░░░░░░░░░░░░   26.52 % 
-Java                     24 mins             █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Kotlin                   33 mins             ██████████░░░░░░░░░░░░░░░   40.89 % 
+Java                     24 mins             ███████░░░░░░░░░░░░░░░░░░   29.97 % 
+C                        13 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
+JSON                     10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-VS Code                  1 hr 29 mins        ██████████████████░░░░░░░   73.10 % 
-Android Studio           33 mins             ███████░░░░░░░░░░░░░░░░░░   26.90 % 
+VS Code                  47 mins             ███████████████░░░░░░░░░░   59.11 % 
+Android Studio           33 mins             ██████████░░░░░░░░░░░░░░░   40.89 % 
 
 🐱‍💻 Projects: 
-Unknown Project          42 mins             █████████░░░░░░░░░░░░░░░░   34.68 % 
-freefare                 39 mins             ████████░░░░░░░░░░░░░░░░░   32.08 % 
-client_CaptainAppsGame   33 mins             ███████░░░░░░░░░░░░░░░░░░   26.90 % 
-radare2-mcp              7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
+Unknown Project          42 mins             █████████████░░░░░░░░░░░░   52.72 % 
+client_CaptainAppsGame   33 mins             ██████████░░░░░░░░░░░░░░░   40.89 % 
+freefare                 5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
 
 💻 Operating System: 
-Linux                    2 hrs 2 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 20 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -165,7 +164,7 @@ Smali                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gauravyad69/gauravyad69/main/assets/bar_graph.png)
 
 
- Last Updated on 19/03/2026 19:30:11 UTC
+ Last Updated on 20/03/2026 19:14:18 UTC
 <!--END_SECTION:waka-->
 </div>
 ---
