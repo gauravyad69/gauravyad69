@@ -93,11 +93,11 @@
 
 > 📦 1.2 MB Used in GitHub's Storage 
  > 
-> 🏆 325 Contributions in the Year 2026
+> 🏆 327 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 37 Public Repositories 
+> 📜 38 Public Repositories 
  > 
 > 🔑 45 Private Repositories 
  > 
@@ -150,11 +150,11 @@ Linux                    1 hr 20 mins        ███████████�
 **I Mostly Code in Kotlin** 
 
 ```text
-Python                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
-Java                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-C#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-Smali                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+Java                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+Python                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+JavaScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+C#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+Smali                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
 ```
 
 
@@ -164,7 +164,7 @@ Smali                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gauravyad69/gauravyad69/main/assets/bar_graph.png)
 
 
- Last Updated on 20/03/2026 19:14:18 UTC
+ Last Updated on 21/03/2026 19:01:19 UTC
 <!--END_SECTION:waka-->
 </div>
 ---
