@@ -128,20 +128,19 @@ Sunday                   454 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-Kotlin                   33 mins             ██████████░░░░░░░░░░░░░░░   40.89 % 
-Java                     24 mins             ███████░░░░░░░░░░░░░░░░░░   29.97 % 
+Kotlin                   33 mins             ██████████░░░░░░░░░░░░░░░   40.90 % 
+Java                     24 mins             ███████░░░░░░░░░░░░░░░░░░   29.98 % 
 C                        13 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
 JSON                     10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-VS Code                  47 mins             ███████████████░░░░░░░░░░   59.11 % 
-Android Studio           33 mins             ██████████░░░░░░░░░░░░░░░   40.89 % 
+VS Code                  47 mins             ███████████████░░░░░░░░░░   59.10 % 
+Android Studio           33 mins             ██████████░░░░░░░░░░░░░░░   40.90 % 
 
 🐱‍💻 Projects: 
-Unknown Project          42 mins             █████████████░░░░░░░░░░░░   52.72 % 
-client_CaptainAppsGame   33 mins             ██████████░░░░░░░░░░░░░░░   40.89 % 
-freefare                 5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
+Unknown Project          42 mins             █████████████░░░░░░░░░░░░   52.73 % 
+client_CaptainAppsGame   33 mins             ██████████░░░░░░░░░░░░░░░   40.90 % 
+freefare                 5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
 
 💻 Operating System: 
 Linux                    1 hr 20 mins        █████████████████████████   100.00 % 
@@ -164,7 +163,7 @@ Smali                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gauravyad69/gauravyad69/main/assets/bar_graph.png)
 
 
- Last Updated on 21/03/2026 19:01:19 UTC
+ Last Updated on 22/03/2026 19:03:36 UTC
 <!--END_SECTION:waka-->
 </div>
 ---
