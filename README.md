@@ -85,7 +85,7 @@
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-237%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-237%20hrs%2020%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -128,16 +128,16 @@ Sunday                   454 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-Kotlin                   33 mins             █████████████████████████   100.00 % 
+Kotlin                   0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Android Studio           33 mins             █████████████████████████   100.00 % 
+Android Studio           0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-client_CaptainAppsGame   33 mins             █████████████████████████   100.00 % 
+client_CaptainAppsGame   0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    33 mins             █████████████████████████   100.00 % 
+Linux                    0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -157,7 +157,7 @@ Smali                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gauravyad69/gauravyad69/main/assets/bar_graph.png)
 
 
- Last Updated on 25/03/2026 19:19:02 UTC
+ Last Updated on 26/03/2026 19:40:32 UTC
 <!--END_SECTION:waka-->
 </div>
 ---
