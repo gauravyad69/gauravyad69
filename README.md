@@ -128,16 +128,16 @@ Sunday                   454 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-Kotlin                   0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Android Studio           0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-client_CaptainAppsGame   0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Kotlin** 
@@ -157,7 +157,7 @@ Smali                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gauravyad69/gauravyad69/main/assets/bar_graph.png)
 
 
- Last Updated on 01/04/2026 19:39:35 UTC
+ Last Updated on 02/04/2026 19:31:53 UTC
 <!--END_SECTION:waka-->
 </div>
 ---
