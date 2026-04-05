@@ -85,7 +85,7 @@
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-237%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-238%20hrs%2015%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -93,32 +93,32 @@
 
 > 📦 1.3 MB Used in GitHub's Storage 
  > 
-> 🏆 333 Contributions in the Year 2026
+> 🏆 340 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 38 Public Repositories 
  > 
-> 🔑 46 Private Repositories 
+> 🔑 47 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                310 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-🌆 Daytime                1126 commits        ████████░░░░░░░░░░░░░░░░░   33.02 % 
-🌃 Evening                1747 commits        █████████████░░░░░░░░░░░░   51.23 % 
-🌙 Night                  227 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
+🌞 Morning                310 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
+🌆 Daytime                1134 commits        ████████░░░░░░░░░░░░░░░░░   33.10 % 
+🌃 Evening                1755 commits        █████████████░░░░░░░░░░░░   51.23 % 
+🌙 Night                  227 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   408 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
-Tuesday                  384 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
-Wednesday                620 commits         █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-Thursday                 537 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
-Friday                   436 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
-Saturday                 570 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
-Sunday                   455 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
+Monday                   408 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
+Tuesday                  384 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+Wednesday                622 commits         █████░░░░░░░░░░░░░░░░░░░░   18.16 % 
+Thursday                 545 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
+Friday                   436 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+Saturday                 570 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
+Sunday                   461 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
 ```
 
 
@@ -128,26 +128,30 @@ Sunday                   455 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Bash                     18 mins             ████████░░░░░░░░░░░░░░░░░   32.92 % 
+JSON                     17 mins             ████████░░░░░░░░░░░░░░░░░   32.01 % 
+Dart                     17 mins             ████████░░░░░░░░░░░░░░░░░   30.93 % 
+XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  55 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+eclassify                55 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    55 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
 
 ```text
-Python                   6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-JavaScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
-Java                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
-C#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
-Smali                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+Python                   7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+JavaScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Java                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+C#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+Smali                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
 ```
 
 
@@ -157,7 +161,7 @@ Smali                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gauravyad69/gauravyad69/main/assets/bar_graph.png)
 
 
- Last Updated on 04/04/2026 19:10:03 UTC
+ Last Updated on 05/04/2026 19:11:30 UTC
 <!--END_SECTION:waka-->
 </div>
 ---
