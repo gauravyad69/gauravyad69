@@ -128,18 +128,18 @@ Sunday                   461 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-Python                   49 mins             ██████████░░░░░░░░░░░░░░░   40.53 % 
-Bash                     30 mins             ██████░░░░░░░░░░░░░░░░░░░   25.07 % 
-JSON                     22 mins             █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
-Dart                     17 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+Python                   49 mins             ██████████░░░░░░░░░░░░░░░   40.45 % 
+Bash                     30 mins             ██████░░░░░░░░░░░░░░░░░░░   25.22 % 
+JSON                     22 mins             █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
+Dart                     17 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
 XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 
 🔥 Editors: 
 VS Code                  2 hrs 1 min         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-autoshareapply           1 hr 6 mins         ██████████████░░░░░░░░░░░   54.59 % 
-eclassify                55 mins             ███████████░░░░░░░░░░░░░░   45.41 % 
+autoshareapply           1 hr 6 mins         ██████████████░░░░░░░░░░░   54.68 % 
+eclassify                55 mins             ███████████░░░░░░░░░░░░░░   45.32 % 
 
 💻 Operating System: 
 Linux                    2 hrs 1 min         █████████████████████████   100.00 % 
@@ -162,7 +162,7 @@ Smali                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gauravyad69/gauravyad69/main/assets/bar_graph.png)
 
 
- Last Updated on 07/04/2026 19:40:07 UTC
+ Last Updated on 08/04/2026 19:48:31 UTC
 <!--END_SECTION:waka-->
 </div>
 ---
