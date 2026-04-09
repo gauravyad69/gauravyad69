@@ -85,7 +85,7 @@
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-239%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-239%20hrs%2053%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -104,21 +104,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                310 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
-🌆 Daytime                1135 commits        ████████░░░░░░░░░░░░░░░░░   33.12 % 
-🌃 Evening                1755 commits        █████████████░░░░░░░░░░░░   51.21 % 
-🌙 Night                  227 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
+🌞 Morning                310 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+🌆 Daytime                1139 commits        ████████░░░░░░░░░░░░░░░░░   33.19 % 
+🌃 Evening                1756 commits        █████████████░░░░░░░░░░░░   51.17 % 
+🌙 Night                  227 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   408 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
-Tuesday                  385 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
-Wednesday                622 commits         █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
-Thursday                 545 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
-Friday                   436 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
-Saturday                 570 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
-Sunday                   461 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
+Monday                   408 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+Tuesday                  385 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
+Wednesday                623 commits         █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
+Thursday                 549 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+Friday                   436 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
+Saturday                 570 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
+Sunday                   461 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
 ```
 
 
@@ -128,21 +128,21 @@ Sunday                   461 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-Python                   49 mins             ██████████░░░░░░░░░░░░░░░   40.45 % 
-Bash                     30 mins             ██████░░░░░░░░░░░░░░░░░░░   25.22 % 
-JSON                     22 mins             █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
-Dart                     17 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
-XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+Python                   49 mins             ████████░░░░░░░░░░░░░░░░░   32.02 % 
+Bash                     46 mins             ████████░░░░░░░░░░░░░░░░░   30.04 % 
+JSON                     22 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
+Other                    17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
+Dart                     17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 1 min         █████████████████████████   100.00 % 
+VS Code                  2 hrs 33 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-autoshareapply           1 hr 6 mins         ██████████████░░░░░░░░░░░   54.68 % 
-eclassify                55 mins             ███████████░░░░░░░░░░░░░░   45.32 % 
+autoshareapply           1 hr 38 mins        ████████████████░░░░░░░░░   64.12 % 
+eclassify                55 mins             █████████░░░░░░░░░░░░░░░░   35.88 % 
 
 💻 Operating System: 
-Linux                    2 hrs 1 min         █████████████████████████   100.00 % 
+Linux                    2 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -162,7 +162,7 @@ Smali                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gauravyad69/gauravyad69/main/assets/bar_graph.png)
 
 
- Last Updated on 08/04/2026 19:48:31 UTC
+ Last Updated on 09/04/2026 19:48:01 UTC
 <!--END_SECTION:waka-->
 </div>
 ---
