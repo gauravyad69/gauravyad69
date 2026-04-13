@@ -85,7 +85,7 @@
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-240%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-241%20hrs%2040%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -128,20 +128,20 @@ Sunday                   462 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-Bash                     55 mins             █████████░░░░░░░░░░░░░░░░   36.97 % 
-Python                   49 mins             ████████░░░░░░░░░░░░░░░░░   33.06 % 
-Other                    39 mins             ███████░░░░░░░░░░░░░░░░░░   26.70 % 
-JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Bash                     1 hr 3 mins         ███████████░░░░░░░░░░░░░░   45.63 % 
+Other                    39 mins             ███████░░░░░░░░░░░░░░░░░░   28.52 % 
+PHP                      35 mins             ██████░░░░░░░░░░░░░░░░░░░   25.78 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 28 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 19 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-autoshareapply           2 hrs 28 mins       █████████████████████████   100.00 % 
+autoshareapply           1 hr 22 mins        ███████████████░░░░░░░░░░   59.27 % 
+eclassify                56 mins             ██████████░░░░░░░░░░░░░░░   40.73 % 
 
 💻 Operating System: 
-Linux                    2 hrs 28 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -161,7 +161,7 @@ Smali                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gauravyad69/gauravyad69/main/assets/bar_graph.png)
 
 
- Last Updated on 12/04/2026 19:15:04 UTC
+ Last Updated on 13/04/2026 19:50:11 UTC
 <!--END_SECTION:waka-->
 </div>
 ---
