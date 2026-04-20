@@ -85,7 +85,7 @@
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-247%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-248%20hrs%2013%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -128,26 +128,26 @@ Sunday                   459 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-Other                    2 hrs 37 mins       ███████████░░░░░░░░░░░░░░   44.37 % 
-PHP                      54 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
-Bash                     38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
-Kotlin                   27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-JSON                     26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
+Other                    3 hrs 4 mins        ██████████████░░░░░░░░░░░   54.77 % 
+Kotlin                   27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
+JSON                     26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+PHP                      23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
+YAML                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 28 mins       ███████████████░░░░░░░░░░   58.91 % 
-Unknown Editor           1 hr 58 mins        ████████░░░░░░░░░░░░░░░░░   33.52 % 
-Android Studio           26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+VS Code                  3 hrs 11 mins       ██████████████░░░░░░░░░░░   56.83 % 
+Unknown Editor           1 hr 58 mins        █████████░░░░░░░░░░░░░░░░   35.21 % 
+Android Studio           26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
 
 🐱‍💻 Projects: 
-eclassify                2 hrs 28 mins       ██████████░░░░░░░░░░░░░░░   41.75 % 
-OpenDocumentScanner      59 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
-Unknown Project          58 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
-testingvisionmodel       42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
-client_CaptainAppsGame   16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
+eclassify                1 hr 36 mins        ███████░░░░░░░░░░░░░░░░░░   28.55 % 
+Unknown Project          1 hr 12 mins        █████░░░░░░░░░░░░░░░░░░░░   21.61 % 
+OpenDocumentScanner      59 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
+testingvisionmodel       42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
+rr3                      24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
 
 💻 Operating System: 
-Linux                    5 hrs 54 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -167,7 +167,7 @@ Smali                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gauravyad69/gauravyad69/main/assets/bar_graph.png)
 
 
- Last Updated on 19/04/2026 19:15:29 UTC
+ Last Updated on 20/04/2026 19:42:12 UTC
 <!--END_SECTION:waka-->
 </div>
 ---
