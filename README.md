@@ -128,25 +128,25 @@ Sunday                   459 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-Other                    1 hr 6 mins         █████████░░░░░░░░░░░░░░░░   36.48 % 
-JSON                     26 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
-PHP                      23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
-Bash                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
-Python                   10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+Other                    1 hr 3 mins         ███████████░░░░░░░░░░░░░░   42.27 % 
+JSON                     26 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
+PHP                      20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+Python                   10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
+Kotlin                   10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 51 mins       ████████████████████████░   94.70 % 
-Android Studio           9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+VS Code                  2 hrs 20 mins       ███████████████████████░░   93.62 % 
+Android Studio           9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
 
 🐱‍💻 Projects: 
-eclassify                1 hr 33 mins        █████████████░░░░░░░░░░░░   51.57 % 
-Unknown Project          40 mins             ██████░░░░░░░░░░░░░░░░░░░   22.33 % 
-rr3                      24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
-revanced-patches         13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
-OpenDocumentScanner      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+eclassify                1 hr 2 mins         ██████████░░░░░░░░░░░░░░░   41.72 % 
+Unknown Project          40 mins             ███████░░░░░░░░░░░░░░░░░░   26.87 % 
+rr3                      24 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
+revanced-patches         13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
+OpenDocumentScanner      9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
 
 💻 Operating System: 
-Linux                    3 hrs 1 min         █████████████████████████   100.00 % 
+Linux                    2 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -166,7 +166,7 @@ Smali                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gauravyad69/gauravyad69/main/assets/bar_graph.png)
 
 
- Last Updated on 22/04/2026 19:50:18 UTC
+ Last Updated on 23/04/2026 19:51:09 UTC
 <!--END_SECTION:waka-->
 </div>
 ---
