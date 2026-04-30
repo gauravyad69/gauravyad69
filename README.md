@@ -85,7 +85,7 @@
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-249%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-250%20hrs%2058%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -93,7 +93,7 @@
 
 > 📦 1.3 MB Used in GitHub's Storage 
  > 
-> 🏆 257 Contributions in the Year 2026
+> 🏆 262 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -104,21 +104,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                310 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
-🌆 Daytime                1180 commits        █████████░░░░░░░░░░░░░░░░   34.06 % 
-🌃 Evening                1751 commits        █████████████░░░░░░░░░░░░   50.55 % 
-🌙 Night                  223 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+🌞 Morning                310 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+🌆 Daytime                1181 commits        █████████░░░░░░░░░░░░░░░░   34.03 % 
+🌃 Evening                1756 commits        █████████████░░░░░░░░░░░░   50.61 % 
+🌙 Night                  223 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   406 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-Tuesday                  379 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
-Wednesday                632 commits         █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
-Thursday                 586 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
-Friday                   435 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
-Saturday                 562 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
-Sunday                   464 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+Monday                   406 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
+Tuesday                  379 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
+Wednesday                634 commits         █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
+Thursday                 589 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
+Friday                   436 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
+Saturday                 562 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
+Sunday                   464 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
 ```
 
 
@@ -128,21 +128,23 @@ Sunday                   464 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-JSON                     22 mins             ████████░░░░░░░░░░░░░░░░░   33.34 % 
-Dart                     17 mins             ███████░░░░░░░░░░░░░░░░░░   26.59 % 
-Other                    14 mins             ██████░░░░░░░░░░░░░░░░░░░   22.13 % 
-Bash                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
-Python                   5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
+Other                    1 hr 5 mins         ██████████░░░░░░░░░░░░░░░   39.52 % 
+Dart                     57 mins             █████████░░░░░░░░░░░░░░░░   35.24 % 
+JSON                     22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
+Bash                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Python                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
 
 🔥 Editors: 
-VS Code                  1 hr 7 mins         █████████████████████████   100.00 % 
+VS Code                  2 hrs 44 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-eclassify                40 mins             ███████████████░░░░░░░░░░   60.00 % 
-autoshareapply           26 mins             ██████████░░░░░░░░░░░░░░░   40.00 % 
+eclassify                1 hr 47 mins        ████████████████░░░░░░░░░   65.21 % 
+autoshareapply           26 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
+Unknown Project          24 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
+call_MHx5akVpcmZqY2lDVENn5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
 
 💻 Operating System: 
-Linux                    1 hr 7 mins         █████████████████████████   100.00 % 
+Linux                    2 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -162,7 +164,7 @@ Smali                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gauravyad69/gauravyad69/main/assets/bar_graph.png)
 
 
- Last Updated on 29/04/2026 20:02:29 UTC
+ Last Updated on 30/04/2026 19:58:24 UTC
 <!--END_SECTION:waka-->
 </div>
 ---
