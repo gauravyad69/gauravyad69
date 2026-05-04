@@ -85,7 +85,7 @@
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-252%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-254%20hrs%2051%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -128,24 +128,24 @@ Sunday                   482 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-Other                    1 hr 40 mins        ███████████░░░░░░░░░░░░░░   45.25 % 
-Dart                     56 mins             ██████░░░░░░░░░░░░░░░░░░░   25.42 % 
-JSON                     26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
-YAML                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
-PHP                      13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+Other                    2 hrs 11 mins       ██████████░░░░░░░░░░░░░░░   38.38 % 
+Dart                     1 hr 11 mins        █████░░░░░░░░░░░░░░░░░░░░   20.99 % 
+PHP                      1 hr 4 mins         █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
+YAML                     43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
+JSON                     26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 41 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 42 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-eclassify                2 hrs 33 mins       █████████████████░░░░░░░░   69.17 % 
-Unknown Project          48 mins             █████░░░░░░░░░░░░░░░░░░░░   21.78 % 
-call_J6OowJxjLx1JRQgJ4jos11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
-call_MHx5akVpcmZqY2lDVENn5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
-call_hkyt6cZVaK5QLoLRQhs23 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+eclassify                4 hrs 34 mins       ████████████████████░░░░░   80.05 % 
+Unknown Project          48 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
+call_J6OowJxjLx1JRQgJ4jos11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+call_MHx5akVpcmZqY2lDVENn5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+call_hkyt6cZVaK5QLoLRQhs23 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 
 💻 Operating System: 
-Linux                    3 hrs 41 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -165,7 +165,7 @@ Smali                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gauravyad69/gauravyad69/main/assets/bar_graph.png)
 
 
- Last Updated on 03/05/2026 19:35:31 UTC
+ Last Updated on 04/05/2026 20:04:14 UTC
 <!--END_SECTION:waka-->
 </div>
 ---
