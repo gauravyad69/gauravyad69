@@ -93,7 +93,7 @@
 
 > 📦 1.3 MB Used in GitHub's Storage 
  > 
-> 🏆 268 Contributions in the Year 2026
+> 🏆 269 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -128,34 +128,31 @@ Sunday                   482 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-Other                    1 hr 26 mins        ████████░░░░░░░░░░░░░░░░░   33.27 % 
-PHP                      1 hr 4 mins         ██████░░░░░░░░░░░░░░░░░░░   25.09 % 
-YAML                     45 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
-JSON                     26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
-Dart                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+PHP                      1 hr 6 mins         ███████░░░░░░░░░░░░░░░░░░   28.93 % 
+YAML                     45 mins             █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
+Other                    35 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+Dart                     27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+JSON                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 18 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 51 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-eclassify                3 hrs 14 mins       ███████████████████░░░░░░   75.41 % 
-autoshareapply           25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
-Unknown Project          23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
-call_J6OowJxjLx1JRQgJ4jos11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
-call_hkyt6cZVaK5QLoLRQhs23 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+eclassify                3 hrs 25 mins       ██████████████████████░░░   88.89 % 
+autoshareapply           25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
 
 💻 Operating System: 
-Linux                    4 hrs 18 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 51 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
 
 ```text
-Python                   7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-JavaScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Java                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-C#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
-Smali                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+Python                   7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
+JavaScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
+Java                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+C#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+Smali                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 ```
 
 
@@ -165,7 +162,7 @@ Smali                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gauravyad69/gauravyad69/main/assets/bar_graph.png)
 
 
- Last Updated on 07/05/2026 20:02:20 UTC
+ Last Updated on 08/05/2026 19:54:40 UTC
 <!--END_SECTION:waka-->
 </div>
 ---
