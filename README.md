@@ -128,21 +128,21 @@ Sunday                   482 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-PHP                      1 hr 6 mins         ███████░░░░░░░░░░░░░░░░░░   28.93 % 
-YAML                     45 mins             █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
-Other                    35 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
-Dart                     27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-JSON                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+PHP                      1 hr 6 mins         █████████░░░░░░░░░░░░░░░░   34.58 % 
+Other                    35 mins             █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
+YAML                     28 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+Dart                     27 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
+Image (svg)              19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 51 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 13 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-eclassify                3 hrs 25 mins       ██████████████████████░░░   88.89 % 
-autoshareapply           25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+eclassify                2 hrs 47 mins       ██████████████████████░░░   86.72 % 
+autoshareapply           25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
 
 💻 Operating System: 
-Linux                    3 hrs 51 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -162,7 +162,7 @@ Smali                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gauravyad69/gauravyad69/main/assets/bar_graph.png)
 
 
- Last Updated on 08/05/2026 19:54:40 UTC
+ Last Updated on 09/05/2026 19:41:50 UTC
 <!--END_SECTION:waka-->
 </div>
 ---
