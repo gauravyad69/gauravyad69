@@ -85,6 +85,8 @@
 <div align="center">
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-298%20hrs%2014%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -99,6 +101,49 @@
  > 
 > 🔑 47 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                311 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
+🌆 Daytime                1130 commits        ████████░░░░░░░░░░░░░░░░░   32.73 % 
+🌃 Evening                1788 commits        █████████████░░░░░░░░░░░░   51.80 % 
+🌙 Night                  223 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   406 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Tuesday                  390 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+Wednesday                626 commits         █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
+Thursday                 523 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+Friday                   445 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
+Saturday                 562 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
+Sunday                   500 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kathmandu
+
+💬 Programming Languages: 
+PHP                      1 hr 27 mins        ██████████████████░░░░░░░   73.14 % 
+Markdown                 28 mins             ██████░░░░░░░░░░░░░░░░░░░   24.17 % 
+YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+
+🔥 Editors: 
+VS Code                  1 hr 59 mins        █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+eclassify                1 hr 58 mins        █████████████████████████   99.83 % 
+automatedkai             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+
+💻 Operating System: 
+Linux                    1 hr 59 mins        █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Kotlin** 
 
 ```text
@@ -116,7 +161,7 @@ Smali                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gauravyad69/gauravyad69/main/assets/bar_graph.png)
 
 
- Last Updated on 28/05/2026 20:44:51 UTC
+ Last Updated on 29/05/2026 20:44:23 UTC
 <!--END_SECTION:waka-->
 </div>
 ---
