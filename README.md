@@ -85,7 +85,7 @@
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-298%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-298%20hrs%2015%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -128,20 +128,21 @@ Sunday                   500 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-PHP                      1 hr 27 mins        ██████████████████░░░░░░░   73.14 % 
-Markdown                 28 mins             ██████░░░░░░░░░░░░░░░░░░░   24.17 % 
-YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Markdown                 28 mins             ██████████████████░░░░░░░   70.27 % 
+PHP                      10 mins             ██████░░░░░░░░░░░░░░░░░░░   24.97 % 
+YAML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 🔥 Editors: 
-VS Code                  1 hr 59 mins        █████████████████████████   100.00 % 
+VS Code                  40 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-eclassify                1 hr 58 mins        █████████████████████████   99.83 % 
-automatedkai             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+eclassify                40 mins             ████████████████████████░   97.72 % 
+automatedkai             0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
 
 💻 Operating System: 
-Linux                    1 hr 59 mins        █████████████████████████   100.00 % 
+Linux                    40 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -161,7 +162,7 @@ Smali                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gauravyad69/gauravyad69/main/assets/bar_graph.png)
 
 
- Last Updated on 29/05/2026 20:44:23 UTC
+ Last Updated on 30/05/2026 19:50:30 UTC
 <!--END_SECTION:waka-->
 </div>
 ---
