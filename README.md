@@ -128,21 +128,17 @@ Sunday                   508 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-Markdown                 19 mins             ███████████████░░░░░░░░░░   60.99 % 
-PHP                      10 mins             ████████░░░░░░░░░░░░░░░░░   32.76 % 
-YAML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
-Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+Other                    0 secs              ████████████████████░░░░░   78.55 % 
+Python                   0 secs              █████░░░░░░░░░░░░░░░░░░░░   21.45 % 
 
 🔥 Editors: 
-VS Code                  31 mins             █████████████████████████   100.00 % 
+VS Code                  0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-eclassify                30 mins             ████████████████████████░   97.01 % 
-automatedkai             0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+automatedkai             0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    31 mins             █████████████████████████   100.00 % 
+Linux                    0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -162,7 +158,7 @@ Smali                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gauravyad69/gauravyad69/main/assets/bar_graph.png)
 
 
- Last Updated on 03/06/2026 21:37:14 UTC
+ Last Updated on 04/06/2026 20:33:32 UTC
 <!--END_SECTION:waka-->
 </div>
 ---
