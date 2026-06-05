@@ -104,19 +104,19 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                312 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
-🌆 Daytime                1156 commits        ████████░░░░░░░░░░░░░░░░░   32.98 % 
-🌃 Evening                1809 commits        █████████████░░░░░░░░░░░░   51.61 % 
+🌞 Morning                313 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+🌆 Daytime                1156 commits        ████████░░░░░░░░░░░░░░░░░   32.97 % 
+🌃 Evening                1809 commits        █████████████░░░░░░░░░░░░   51.60 % 
 🌙 Night                  228 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   410 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
+Monday                   410 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
 Tuesday                  395 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-Wednesday                648 commits         █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
+Wednesday                648 commits         █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
 Thursday                 528 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
-Friday                   453 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
+Friday                   454 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
 Saturday                 563 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
 Sunday                   508 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
 ```
@@ -128,8 +128,7 @@ Sunday                   508 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-Other                    0 secs              ████████████████████░░░░░   78.55 % 
-Python                   0 secs              █████░░░░░░░░░░░░░░░░░░░░   21.45 % 
+Other                    0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
 VS Code                  0 secs              █████████████████████████   100.00 % 
@@ -158,7 +157,7 @@ Smali                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gauravyad69/gauravyad69/main/assets/bar_graph.png)
 
 
- Last Updated on 04/06/2026 20:33:32 UTC
+ Last Updated on 05/06/2026 20:25:58 UTC
 <!--END_SECTION:waka-->
 </div>
 ---
