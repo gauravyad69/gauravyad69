@@ -85,8 +85,6 @@
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-298%20hrs%2015%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -101,45 +99,6 @@
  > 
 > 🔑 47 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                313 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
-🌆 Daytime                1156 commits        ████████░░░░░░░░░░░░░░░░░   32.95 % 
-🌃 Evening                1810 commits        █████████████░░░░░░░░░░░░   51.60 % 
-🌙 Night                  229 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   411 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-Tuesday                  395 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
-Wednesday                648 commits         █████░░░░░░░░░░░░░░░░░░░░   18.47 % 
-Thursday                 528 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
-Friday                   454 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
-Saturday                 563 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
-Sunday                   509 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kathmandu
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Kotlin** 
 
 ```text
@@ -157,7 +116,7 @@ Smali                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gauravyad69/gauravyad69/main/assets/bar_graph.png)
 
 
- Last Updated on 22/07/2026 19:55:10 UTC
+ Last Updated on 23/07/2026 19:56:59 UTC
 <!--END_SECTION:waka-->
 </div>
 ---
