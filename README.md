@@ -85,6 +85,10 @@
 <div align="center">
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-299%20hrs%2058%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-116%20hrs%2029%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -99,6 +103,51 @@
  > 
 > 🔑 47 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                313 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
+🌆 Daytime                1160 commits        ████████░░░░░░░░░░░░░░░░░   33.02 % 
+🌃 Evening                1811 commits        █████████████░░░░░░░░░░░░   51.55 % 
+🌙 Night                  229 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   411 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
+Tuesday                  395 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
+Wednesday                649 commits         █████░░░░░░░░░░░░░░░░░░░░   18.47 % 
+Thursday                 532 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
+Friday                   454 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
+Saturday                 563 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
+Sunday                   509 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kathmandu
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in Kotlin** 
 
 ```text
@@ -116,7 +165,7 @@ Smali                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gauravyad69/gauravyad69/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2026 20:02:52 UTC
+ Last Updated on 29/07/2026 19:53:30 UTC
 <!--END_SECTION:waka-->
 </div>
 ---
