@@ -13,7 +13,7 @@
 - � HAnime, manhwa, and light novel enthusiast
 - 💬 Ask me about Android development, web development, or anything tech!
 - 📫 How to reach me: **gauravyad2077@gmail.com**
-- ⚡ Fun fact: I debug on NixOS and read manga between commits!
+- ⚡ I debug on NixOS and read manga between commits!
 
 ---
 
