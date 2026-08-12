@@ -10,7 +10,7 @@
 - 📱 Android Developer (Java, Kotlin, Jetpack Compose & XML)
 - 🌐 Web Developer (JavaScript, Angular, React, Vue)
 - � Is use NixOS BTW! Familiar with Linux servers and environments
-- � HAnime, manhwa, and light novel enthusiast
+- � Anime, manhwa, and light novel enthusiast
 - 💬 Ask me about Android development, web development, or anything tech!
 - 📫 How to reach me: **gauravyad2077@gmail.com**
 - ⚡ I debug on NixOS and read manga between commits!
