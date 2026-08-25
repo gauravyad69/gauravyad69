@@ -130,41 +130,43 @@ Sunday                   516 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-Python                   1 hr 15 mins        ██████████████████████░░░   86.89 % 
-HTML                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
-Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+Python                   1 hr 31 mins        ████████████████░░░░░░░░░   64.85 % 
+CSS                      25 mins             █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
+JSON                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
+HTML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
 
 🔥 Editors: 
-OpenCode                 1 hr 24 mins        ████████████████████████░   97.25 % 
-OpenClaw                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+OpenCode                 2 hrs 19 mins       █████████████████████████   98.31 % 
+OpenClaw                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 
 🐱‍💻 Projects: 
-autoconfessioninsta      1 hr 27 mins        █████████████████████████   100.00 % 
+autoconfessioninsta      2 hrs 9 mins        ███████████████████████░░   91.42 % 
+mrhell                   12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
 
 💻 Operating System: 
-Linux                    1 hr 27 mins        █████████████████████████   100.00 % 
+Linux                    2 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 27 mins (100.0%)
+⏱ AI Coding Time: 2 hrs 21 mins (100.0%)
 
-✍️ 203 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 689 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 165,055 Input Tokens, 66,533 Output Tokens
+🔤 183,542 Input Tokens, 96,150 Output Tokens
 
-💵 $40.91 Estimated AI Cost This Week
+💵 $53.64 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 33 AI Prompts
+🧠 6 AI Sessions, 51 AI Prompts
 
-Deepseek                 120 lines           █████████████████████████   100.00 % 
+Deepseek                 606 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 243 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
+📝 Concise Prompter — average 261 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -185,7 +187,7 @@ Smali                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gauravyad69/gauravyad69/main/assets/bar_graph.png)
 
 
- Last Updated on 24/08/2026 19:11:57 UTC
+ Last Updated on 25/08/2026 19:11:01 UTC
 <!--END_SECTION:waka-->
 </div>
 ---
