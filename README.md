@@ -106,21 +106,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                313 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
-🌆 Daytime                1181 commits        ████████░░░░░░░░░░░░░░░░░   33.31 % 
-🌃 Evening                1816 commits        █████████████░░░░░░░░░░░░   51.21 % 
-🌙 Night                  236 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
+🌞 Morning                313 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
+🌆 Daytime                1129 commits        ████████░░░░░░░░░░░░░░░░░   32.43 % 
+🌃 Evening                1803 commits        █████████████░░░░░░░░░░░░   51.80 % 
+🌙 Night                  236 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   423 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
-Tuesday                  395 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
-Wednesday                654 commits         █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
-Thursday                 540 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
-Friday                   455 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
-Saturday                 563 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
-Sunday                   516 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+Monday                   423 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
+Tuesday                  395 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+Wednesday                641 commits         █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
+Thursday                 488 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
+Friday                   455 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
+Saturday                 563 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
+Sunday                   516 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
 ```
 
 
@@ -130,52 +130,32 @@ Sunday                   516 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-Python                   1 hr 15 mins        ██████████████████████░░░   86.89 % 
-HTML                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
-Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-OpenCode                 1 hr 24 mins        ████████████████████████░   97.25 % 
-OpenClaw                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-autoconfessioninsta      1 hr 27 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 27 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 27 mins (100.0%)
-
-✍️ 203 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 165,055 Input Tokens, 66,533 Output Tokens
-
-💵 $40.91 Estimated AI Cost This Week
-
-🧠 3 AI Sessions, 33 AI Prompts
-
-Deepseek                 120 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 243 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Kotlin** 
 
 ```text
-Python                   10 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-JavaScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-Java                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-C#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
-Smali                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+Python                   10 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+JavaScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
+Java                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
+C#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+Smali                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
 ```
 
 
@@ -185,7 +165,7 @@ Smali                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gauravyad69/gauravyad69/main/assets/bar_graph.png)
 
 
- Last Updated on 28/08/2026 02:17:40 UTC
+ Last Updated on 29/08/2026 01:52:35 UTC
 <!--END_SECTION:waka-->
 </div>
 ---
