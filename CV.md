@@ -59,6 +59,7 @@ Android developer focused on Kotlin and Jetpack Compose, with strong full-stack 
 ## Open Source
 
 - **[Canon LBP2900B Linux Driver](https://github.com/gauravyad69/Canon-LBP2900B)** — Reverse-engineered the Canon CAPT printing protocol from USB captures to implement error/jam recovery, correct paper-size codes, and improve transport reliability and multi-page printing.
+- **Real Racing 3 — Preservation Project** — Reverse-engineered a 33MB ARM64 native library (radare2/Ghidra) ahead of EA's 2026 server shutdown: cracked the save-file encryption (repeating XOR key, 8 `.dat` + 4 `.bin` files), cloud sync protocol, and checksum algorithm; applied 21 binary patches (SSL pinning bypass, update bypass, CDN redirect) via Frida hooks; archived the full 17GB CDN; built a FastAPI private server implementing the game's endpoints — game fully playable offline.
 - **[ReVanced Patches](https://github.com/revanced/revanced-patches)** — Authored and fixed Instagram patches (v421.x.x compatibility, download-media fix, QoL patches, navigation fingerprint updates).
 - **[LightNovelReader](https://github.com/dmzz-yyhyy/LightNovelReader)** — 68+ commits to the Compose-based multi-source novel reader (epub export, local bookshelf features).
 - **[Shosetsu](https://github.com/ShosetsuOrg/shosetsu)** — Android novel reader; accessibility improvements (content descriptions for bottom-sheet icons).
