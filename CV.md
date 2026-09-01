@@ -40,10 +40,9 @@ Android developer focused on Kotlin and Jetpack Compose, with strong full-stack 
 
 ### Android
 
-- **Open Document Scanner** — Document scanner app with a pluggable OCR pipeline supporting both on-device and remote providers, secure API-key storage via Android Keystore, and clean-architecture feature modules. *Kotlin, Jetpack Compose, MVVM*
 - **PartySync & SpeakerShare** — Synchronized audio broadcasting across multiple Android devices over Wi-Fi/hotspot LAN. *Kotlin, custom networking, audio streaming*
 - **School Management App** — Comprehensive school operations app covering attendance, records, and communication. *Kotlin, MVVM, Android Jetpack*
-- **Trading App** — Stocks and cryptocurrency tracking with live market data processing. *Kotlin, REST API integration, real-time data*
+- **Simulated Trading App** — Paper-trading app for stocks with live market data processing. *Kotlin, REST API integration, real-time data*
 - **eCommerce App (client)** — Custom storefront Android app backed by a Ktor REST API and MongoDB. *Kotlin, Jetpack Compose, Ktor, MongoDB*
 - **Digital Detox** — Screen-time / digital wellness app. *Kotlin, Jetpack Compose*
 
@@ -59,6 +58,7 @@ Android developer focused on Kotlin and Jetpack Compose, with strong full-stack 
 
 ## Open Source
 
+- **[Canon LBP2900B Linux Driver](https://github.com/gauravyad69/Canon-LBP2900B)** — Reverse-engineered the Canon CAPT printing protocol from USB captures to implement error/jam recovery, correct paper-size codes, and improve transport reliability and multi-page printing.
 - **[ReVanced Patches](https://github.com/revanced/revanced-patches)** — Authored and fixed Instagram patches (v421.x.x compatibility, download-media fix, QoL patches, navigation fingerprint updates).
 - **[LightNovelReader](https://github.com/dmzz-yyhyy/LightNovelReader)** — 68+ commits to the Compose-based multi-source novel reader (epub export, local bookshelf features).
 - **[Shosetsu](https://github.com/ShosetsuOrg/shosetsu)** — Android novel reader; accessibility improvements (content descriptions for bottom-sheet icons).
