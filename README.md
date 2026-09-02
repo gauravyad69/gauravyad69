@@ -85,17 +85,17 @@
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-301%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-301%20hrs%2032%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-117%20hrs%2056%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-118%20hrs%2013%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.3 MB Used in GitHub's Storage 
  > 
-> 🏆 355 Contributions in the Year 2026
+> 🏆 360 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -106,21 +106,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                313 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
-🌆 Daytime                1129 commits        ████████░░░░░░░░░░░░░░░░░   32.40 % 
-🌃 Evening                1807 commits        █████████████░░░░░░░░░░░░   51.85 % 
-🌙 Night                  236 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
+🌞 Morning                322 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
+🌆 Daytime                1155 commits        ████████░░░░░░░░░░░░░░░░░   32.54 % 
+🌃 Evening                1824 commits        █████████████░░░░░░░░░░░░   51.39 % 
+🌙 Night                  248 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   423 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
-Tuesday                  399 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
-Wednesday                641 commits         █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
-Thursday                 488 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
-Friday                   455 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
-Saturday                 563 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
-Sunday                   516 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+Monday                   430 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+Tuesday                  399 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
+Wednesday                633 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
+Thursday                 511 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
+Friday                   489 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
+Saturday                 571 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
+Sunday                   516 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
 ```
 
 
@@ -130,22 +130,45 @@ Sunday                   516 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 11 mins             ████████████████░░░░░░░░░   65.84 % 
+Other                    5 mins              █████████░░░░░░░░░░░░░░░░   34.16 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+OpenCode                 11 mins             █████████████████░░░░░░░░   68.28 % 
+Claude Code              3 mins              ██████░░░░░░░░░░░░░░░░░░░   22.06 % 
+OpenClaw                 1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Projects                 11 mins             █████████████████░░░░░░░░   67.04 % 
+SpeakerShare             3 mins              ██████░░░░░░░░░░░░░░░░░░░   22.06 % 
+workspace                1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    16 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 16 mins (100.0%)
+
+✍️ 82 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 135,942 Input Tokens, 14,284 Output Tokens
+
+💵 $10.08 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 8 AI Prompts
+
+Glm                      82 lines            ███████████████████████░░   93.18 % 
+Deepseek                 6 lines             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 276 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Kotlin** 
@@ -165,7 +188,7 @@ Smali                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gauravyad69/gauravyad69/main/assets/bar_graph.png)
 
 
- Last Updated on 01/09/2026 21:14:58 UTC
+ Last Updated on 02/09/2026 21:14:00 UTC
 <!--END_SECTION:waka-->
 </div>
 ---
