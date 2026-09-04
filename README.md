@@ -85,9 +85,9 @@
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-302%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-305%20hrs%2056%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-119%20hrs%2036%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-122%20hrs%2036%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
 
@@ -130,61 +130,61 @@ Sunday                   516 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-Kotlin                   46 mins             ████████████░░░░░░░░░░░░░   46.09 % 
-Python                   18 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
-Markdown                 11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
-HTML                     10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
-CSS                      8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
+Kotlin                   3 hrs 43 mins       ████████████████████░░░░░   79.18 % 
+Python                   18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+Markdown                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+HTML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+CSS                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
 
 🔥 Editors: 
-OpenCode                 1 hr 9 mins         █████████████████░░░░░░░░   67.93 % 
-VS Code                  19 mins             █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
-Claude Code              7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
-OpenClaw                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+OpenCode                 3 hrs 50 mins       ████████████████████░░░░░   81.55 % 
+VS Code                  35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+OpenClaw                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+Claude Code              7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
 
 🐱‍💻 Projects: 
-SpeakerShare             1 hr 6 mins         ████████████████░░░░░░░░░   65.30 % 
-gauravyad69.github.io    19 mins             █████░░░░░░░░░░░░░░░░░░░░   18.98 % 
-Projects                 11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
-workspace                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
-automatedkai             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+SpeakerShare             4 hrs 6 mins        ██████████████████████░░░   87.37 % 
+gauravyad69.github.io    19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
+Projects                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+workspace                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+automatedkai             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 
 💻 Operating System: 
-Linux                    1 hr 41 mins        █████████████████████████   100.00 % 
+Linux                    4 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 39 mins (98.08%)
+⏱ AI Coding Time: 4 hrs 40 mins (99.31%)
 
-✍️ 1,241 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,397 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 697,465 Input Tokens, 97,024 Output Tokens
+🔤 2,297,213 Input Tokens, 241,588 Output Tokens
 
-💵 $99.74 Estimated AI Cost This Week
+💵 $482.17 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 26 AI Prompts
+🧠 11 AI Sessions, 46 AI Prompts
 
-Glm                      1,017 lines         ████████████████████░░░░░   78.72 % 
-Opencode-Cli             269 lines           █████░░░░░░░░░░░░░░░░░░░░   20.82 % 
-Deepseek                 6 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+Glm                      2,053 lines         █████████████████████░░░░   82.82 % 
+Opencode-Cli             420 lines           ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
+Deepseek                 6 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 199 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📝 Concise Prompter — average 258 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Kotlin** 
 
 ```text
-Python                   10 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
-JavaScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
-Java                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
-C#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
-Smali                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+Python                   9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
+JavaScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Java                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+C#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+Smali                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
 ```
 
 
@@ -194,7 +194,7 @@ Smali                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gauravyad69/gauravyad69/main/assets/bar_graph.png)
 
 
- Last Updated on 03/09/2026 21:14:50 UTC
+ Last Updated on 04/09/2026 20:58:04 UTC
 <!--END_SECTION:waka-->
 </div>
 ---
