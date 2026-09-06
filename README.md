@@ -180,11 +180,11 @@ Deepseek                 6 lines             ░░░░░░░░░░░�
 **I Mostly Code in Kotlin** 
 
 ```text
-Python                   9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
-JavaScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-Java                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-C#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
-Smali                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+Python                   9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
+JavaScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+Java                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+C#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+Smali                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
 ```
 
 
@@ -194,7 +194,7 @@ Smali                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gauravyad69/gauravyad69/main/assets/bar_graph.png)
 
 
- Last Updated on 05/09/2026 20:34:35 UTC
+ Last Updated on 06/09/2026 20:37:38 UTC
 <!--END_SECTION:waka-->
 </div>
 ---
