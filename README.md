@@ -89,17 +89,17 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-122%20hrs%2036%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.3 MB Used in GitHub's Storage 
  > 
-> 🏆 361 Contributions in the Year 2026
+> 🏆 363 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 41 Public Repositories 
+> 📜 42 Public Repositories 
  > 
 > 🔑 47 Private Repositories 
  > 
@@ -107,8 +107,8 @@
 
 ```text
 🌞 Morning                322 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
-🌆 Daytime                1155 commits        ████████░░░░░░░░░░░░░░░░░   32.54 % 
-🌃 Evening                1824 commits        █████████████░░░░░░░░░░░░   51.38 % 
+🌆 Daytime                1155 commits        ████████░░░░░░░░░░░░░░░░░   32.53 % 
+🌃 Evening                1825 commits        █████████████░░░░░░░░░░░░   51.39 % 
 🌙 Night                  249 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
@@ -116,11 +116,11 @@
 ```text
 Monday                   430 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
 Tuesday                  399 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
-Wednesday                633 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
+Wednesday                634 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
 Thursday                 512 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
 Friday                   489 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
 Saturday                 571 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
-Sunday                   516 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
+Sunday                   516 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
 ```
 
 
@@ -130,61 +130,60 @@ Sunday                   516 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-Kotlin                   3 hrs 43 mins       ████████████████████░░░░░   79.18 % 
-Python                   18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
-Markdown                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
-HTML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
-CSS                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+Kotlin                   3 hrs 43 mins       █████████████████████░░░░   84.26 % 
+Python                   18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+HTML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+CSS                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+TOML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
 
 🔥 Editors: 
-OpenCode                 3 hrs 50 mins       ████████████████████░░░░░   81.55 % 
-VS Code                  35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
-OpenClaw                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
-Claude Code              7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+OpenCode                 3 hrs 33 mins       ████████████████████░░░░░   80.41 % 
+VS Code                  41 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
+OpenClaw                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+Claude Code              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 
 🐱‍💻 Projects: 
-SpeakerShare             4 hrs 6 mins        ██████████████████████░░░   87.37 % 
-gauravyad69.github.io    19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
-Projects                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
-workspace                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
-automatedkai             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+SpeakerShare             4 hrs 2 mins        ███████████████████████░░   91.56 % 
+gauravyad69.github.io    19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
+automatedkai             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+workspace                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 💻 Operating System: 
-Linux                    4 hrs 42 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 40 mins (99.31%)
+⏱ AI Coding Time: 4 hrs 23 mins (99.26%)
 
-✍️ 2,397 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,315 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,297,213 Input Tokens, 241,588 Output Tokens
+🔤 2,161,271 Input Tokens, 227,304 Output Tokens
 
-💵 $482.17 Estimated AI Cost This Week
+💵 $472.10 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 46 AI Prompts
+🧠 8 AI Sessions, 38 AI Prompts
 
-Glm                      2,053 lines         █████████████████████░░░░   82.82 % 
-Opencode-Cli             420 lines           ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
-Deepseek                 6 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Glm                      1,971 lines         █████████████████████░░░░   82.43 % 
+Opencode-Cli             420 lines           ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 258 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📝 Concise Prompter — average 254 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Kotlin** 
 
 ```text
-Python                   9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
-JavaScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
-Java                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
-C#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
-Smali                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+Python                   9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
+HTML                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+JavaScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Java                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+C#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
 ```
 
 
@@ -194,7 +193,7 @@ Smali                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gauravyad69/gauravyad69/main/assets/bar_graph.png)
 
 
- Last Updated on 08/09/2026 21:20:35 UTC
+ Last Updated on 09/09/2026 21:05:39 UTC
 <!--END_SECTION:waka-->
 </div>
 ---
