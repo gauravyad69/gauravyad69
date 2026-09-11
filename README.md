@@ -130,49 +130,46 @@ Sunday                   516 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-Kotlin                   2 hrs 56 mins       ███████████░░░░░░░░░░░░░░   45.93 % 
-PHP                      1 hr 44 mins        ███████░░░░░░░░░░░░░░░░░░   27.19 % 
-HTML                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
-Markdown                 24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
-JSON                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+PHP                      2 hrs 6 mins        ██████████████░░░░░░░░░░░   55.76 % 
+HTML                     33 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+Markdown                 24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+JSON                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+Bash                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
 
 🔥 Editors: 
-OpenCode                 5 hrs 55 mins       ███████████████████████░░   92.45 % 
-VS Code                  16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
-OpenClaw                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+OpenCode                 3 hrs 36 mins       ████████████████████████░   95.18 % 
+OpenClaw                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
 
 🐱‍💻 Projects: 
-SpeakerShare             2 hrs 59 mins       ████████████░░░░░░░░░░░░░   46.85 % 
-eclassify                2 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   37.57 % 
-Unknown Project          34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
-hackathon                16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
-workspace                8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+eclassify                2 hrs 46 mins       ██████████████████░░░░░░░   73.29 % 
+Unknown Project          34 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
+hackathon                16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
+workspace                9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
 
 💻 Operating System: 
-Linux                    6 hrs 24 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 47 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 24 mins (100.0%)
+⏱ AI Coding Time: 3 hrs 47 mins (100.0%)
 
-✍️ 4,606 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 3,606 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,301,418 Input Tokens, 276,580 Output Tokens
+🔤 787,039 Input Tokens, 158,847 Output Tokens
 
-💵 $479.25 Estimated AI Cost This Week
+💵 $108.07 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 58 AI Prompts
+🧠 9 AI Sessions, 43 AI Prompts
 
-Glm                      4,031 lines         ████████████████████████░   96.39 % 
-Opencode-Cli             151 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+Glm                      3,100 lines         █████████████████████████   100.00 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 385 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
+📝 Concise Prompter — average 410 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -193,7 +190,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gauravyad69/gauravyad69/main/assets/bar_graph.png)
 
 
- Last Updated on 10/09/2026 21:03:47 UTC
+ Last Updated on 11/09/2026 21:09:00 UTC
 <!--END_SECTION:waka-->
 </div>
 ---
