@@ -85,11 +85,11 @@
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-309%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-311%20hrs%2010%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-126%20hrs%2024%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-128%20hrs%201%20min-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -130,45 +130,46 @@ Sunday                   516 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-PHP                      2 hrs 6 mins        ██████████████░░░░░░░░░░░   55.76 % 
-HTML                     33 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-Markdown                 24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-JSON                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
-Bash                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+PHP                      2 hrs 41 mins       ████████████░░░░░░░░░░░░░   49.69 % 
+Python                   48 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
+HTML                     33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
+Markdown                 29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+JSON                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
 
 🔥 Editors: 
-OpenCode                 3 hrs 36 mins       ████████████████████████░   95.18 % 
-OpenClaw                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+OpenCode                 5 hrs 13 mins       ████████████████████████░   96.55 % 
+OpenClaw                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 
 🐱‍💻 Projects: 
-eclassify                2 hrs 46 mins       ██████████████████░░░░░░░   73.29 % 
-Unknown Project          34 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
-hackathon                16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
-workspace                9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+eclassify                3 hrs 25 mins       ████████████████░░░░░░░░░   63.41 % 
+cartesiaai               42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
+Unknown Project          41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
+hackathon                16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
+workspace                9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
 
 💻 Operating System: 
-Linux                    3 hrs 47 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 47 mins (100.0%)
+⏱ AI Coding Time: 5 hrs 24 mins (100.0%)
 
-✍️ 3,606 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 4,273 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 787,039 Input Tokens, 158,847 Output Tokens
+🔤 1,115,422 Input Tokens, 226,620 Output Tokens
 
-💵 $108.07 Estimated AI Cost This Week
+💵 $154.75 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 43 AI Prompts
+🧠 13 AI Sessions, 60 AI Prompts
 
-Glm                      3,100 lines         █████████████████████████   100.00 % 
+Glm                      3,769 lines         █████████████████████████   100.00 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 410 characters per prompt
+📝 Concise Prompter — average 350 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -190,7 +191,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gauravyad69/gauravyad69/main/assets/bar_graph.png)
 
 
- Last Updated on 11/09/2026 21:09:00 UTC
+ Last Updated on 12/09/2026 20:46:25 UTC
 <!--END_SECTION:waka-->
 </div>
 ---
