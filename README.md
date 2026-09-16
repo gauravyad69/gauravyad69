@@ -85,9 +85,9 @@
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-314%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-316%20hrs%2016%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-132%20hrs%2049%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-134%20hrs%2032%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
 
@@ -130,46 +130,46 @@ Sunday                   519 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-Python                   3 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   32.12 % 
-PHP                      2 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   26.33 % 
-Other                    1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-Bash                     51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
-Markdown                 36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
+Python                   3 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   32.85 % 
+PHP                      2 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   22.53 % 
+Other                    1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+Markdown                 1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
+Bash                     51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
 
 🔥 Editors: 
-OpenCode                 9 hrs 37 mins       ████████████████████████░   94.33 % 
-OpenClaw                 34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+OpenCode                 11 hrs 9 mins       ███████████████████████░░   93.53 % 
+OpenClaw                 46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
 
 🐱‍💻 Projects: 
-eclassify                3 hrs 25 mins       ████████░░░░░░░░░░░░░░░░░   33.61 % 
-cinevoice                2 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   26.06 % 
-cartesiaai               1 hr 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
-Unknown Project          1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
-mrhell                   28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+cinevoice                3 hrs 48 mins       ████████░░░░░░░░░░░░░░░░░   31.89 % 
+eclassify                3 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   28.75 % 
+cartesiaai               1 hr 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
+Unknown Project          1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
+workspace                38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
 
 💻 Operating System: 
-Linux                    10 hrs 12 mins      █████████████████████████   100.00 % 
+Linux                    11 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 12 mins (100.0%)
+⏱ AI Coding Time: 11 hrs 55 mins (100.0%)
 
-✍️ 6,613 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 6,953 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,658,949 Input Tokens, 374,059 Output Tokens
+🔤 2,055,821 Input Tokens, 422,122 Output Tokens
 
-💵 $223.15 Estimated AI Cost This Week
+💵 $253.38 Estimated AI Cost This Week
 
-🧠 23 AI Sessions, 106 AI Prompts
+🧠 25 AI Sessions, 122 AI Prompts
 
-Glm                      5,390 lines         █████████████████████████   100.00 % 
+Glm                      5,598 lines         █████████████████████████   100.00 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 318 characters per prompt
+📝 Concise Prompter — average 304 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -191,7 +191,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gauravyad69/gauravyad69/main/assets/bar_graph.png)
 
 
- Last Updated on 15/09/2026 21:36:58 UTC
+ Last Updated on 16/09/2026 21:31:30 UTC
 <!--END_SECTION:waka-->
 </div>
 ---
