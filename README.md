@@ -130,45 +130,45 @@ Sunday                   519 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-Python                   3 hrs 55 mins       ███████████░░░░░░░░░░░░░░   44.88 % 
-Other                    1 hr 47 mins        █████░░░░░░░░░░░░░░░░░░░░   20.56 % 
-PHP                      56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
-Markdown                 45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
-Bash                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+Python                   3 hrs 55 mins       ████████████░░░░░░░░░░░░░   47.01 % 
+Other                    1 hr 46 mins        █████░░░░░░░░░░░░░░░░░░░░   21.29 % 
+Markdown                 45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
+Bash                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
+PHP                      34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
 
 🔥 Editors: 
-OpenCode                 7 hrs 55 mins       ███████████████████████░░   90.76 % 
-OpenClaw                 48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
+OpenCode                 7 hrs 32 mins       ███████████████████████░░   90.57 % 
+OpenClaw                 47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
 
 🐱‍💻 Projects: 
-cinevoice                3 hrs 48 mins       ███████████░░░░░░░░░░░░░░   43.57 % 
-cartesiaai               1 hr 47 mins        █████░░░░░░░░░░░░░░░░░░░░   20.54 % 
-eclassify                1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-workspace                41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
-mrhell                   28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+cinevoice                3 hrs 48 mins       ███████████░░░░░░░░░░░░░░   45.64 % 
+cartesiaai               1 hr 47 mins        █████░░░░░░░░░░░░░░░░░░░░   21.51 % 
+workspace                40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
+eclassify                38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
+mrhell                   28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
 
 💻 Operating System: 
-Linux                    8 hrs 43 mins       █████████████████████████   100.00 % 
+Linux                    8 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 43 mins (100.0%)
+⏱ AI Coding Time: 8 hrs 19 mins (100.0%)
 
-✍️ 3,503 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 3,347 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,354,151 Input Tokens, 290,106 Output Tokens
+🔤 1,268,782 Input Tokens, 263,275 Output Tokens
 
-💵 $156.56 Estimated AI Cost This Week
+💵 $149.23 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 87 AI Prompts
+🧠 19 AI Sessions, 83 AI Prompts
 
-Glm                      2,603 lines         █████████████████████████   100.00 % 
+Glm                      2,521 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 257 characters per prompt
+📝 Concise Prompter — average 251 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -190,7 +190,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gauravyad69/gauravyad69/main/assets/bar_graph.png)
 
 
- Last Updated on 17/09/2026 21:36:26 UTC
+ Last Updated on 18/09/2026 21:06:51 UTC
 <!--END_SECTION:waka-->
 </div>
 ---
