@@ -89,7 +89,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-134%20hrs%2044%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -130,45 +130,45 @@ Sunday                   519 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-Python                   3 hrs 55 mins       ████████████░░░░░░░░░░░░░   47.01 % 
-Other                    1 hr 46 mins        █████░░░░░░░░░░░░░░░░░░░░   21.29 % 
-Markdown                 45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
-Bash                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
-PHP                      34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+Python                   3 hrs 7 mins        ███████████░░░░░░░░░░░░░░   44.98 % 
+Other                    1 hr 37 mins        ██████░░░░░░░░░░░░░░░░░░░   23.45 % 
+Markdown                 52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+Bash                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+HTML                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
 
 🔥 Editors: 
-OpenCode                 7 hrs 32 mins       ███████████████████████░░   90.57 % 
-OpenClaw                 47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
+OpenCode                 6 hrs 9 mins        ██████████████████████░░░   88.76 % 
+OpenClaw                 46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
 
 🐱‍💻 Projects: 
-cinevoice                3 hrs 48 mins       ███████████░░░░░░░░░░░░░░   45.64 % 
-cartesiaai               1 hr 47 mins        █████░░░░░░░░░░░░░░░░░░░░   21.51 % 
-workspace                40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
-eclassify                38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
-mrhell                   28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+cinevoice                3 hrs 49 mins       ██████████████░░░░░░░░░░░   55.09 % 
+cartesiaai               1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
+workspace                40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+nagarsathi-pitch         22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+Unknown Project          20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
 
 💻 Operating System: 
-Linux                    8 hrs 19 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 56 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 19 mins (100.0%)
+⏱ AI Coding Time: 6 hrs 56 mins (100.0%)
 
-✍️ 3,347 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,692 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,268,782 Input Tokens, 263,275 Output Tokens
+🔤 945,996 Input Tokens, 197,552 Output Tokens
 
-💵 $149.23 Estimated AI Cost This Week
+💵 $102.84 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 83 AI Prompts
+🧠 15 AI Sessions, 67 AI Prompts
 
-Glm                      2,521 lines         █████████████████████████   100.00 % 
+Glm                      1,835 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 251 characters per prompt
+📝 Concise Prompter — average 266 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -190,7 +190,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gauravyad69/gauravyad69/main/assets/bar_graph.png)
 
 
- Last Updated on 18/09/2026 21:06:51 UTC
+ Last Updated on 19/09/2026 20:55:09 UTC
 <!--END_SECTION:waka-->
 </div>
 ---
