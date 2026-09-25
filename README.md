@@ -130,49 +130,49 @@ Sunday                   519 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-Markdown                 1 hr 52 mins        █████████░░░░░░░░░░░░░░░░   36.96 % 
-Python                   1 hr 49 mins        █████████░░░░░░░░░░░░░░░░   35.67 % 
-Other                    1 hr 6 mins         █████░░░░░░░░░░░░░░░░░░░░   21.82 % 
-Text                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
-C++                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+Markdown                 1 hr 52 mins        ████████░░░░░░░░░░░░░░░░░   33.66 % 
+Python                   1 hr 49 mins        ████████░░░░░░░░░░░░░░░░░   32.49 % 
+Other                    1 hr 23 mins        ██████░░░░░░░░░░░░░░░░░░░   24.97 % 
+Text                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+TypeScript               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
 
 🔥 Editors: 
-OpenCode                 3 hrs 26 mins       █████████████████░░░░░░░░   67.44 % 
-Opencode Cli             57 mins             █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
-OpenClaw                 41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
+OpenCode                 3 hrs 45 mins       █████████████████░░░░░░░░   67.14 % 
+Opencode Cli             57 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
+OpenClaw                 52 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
 VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🐱‍💻 Projects: 
-rr3                      4 hrs               ████████████████████░░░░░   78.67 % 
-workspace                41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
-opencode                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
-matching_discord         8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+rr3                      4 hrs 4 mins        ██████████████████░░░░░░░   72.80 % 
+workspace                52 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
+matching_discord         21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+opencode                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+eclassify                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 
 💻 Operating System: 
-Linux                    5 hrs 5 mins        █████████████████████████   100.00 % 
+Linux                    5 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 5 mins (100.0%)
+⏱ AI Coding Time: 5 hrs 35 mins (100.0%)
 
-✍️ 2,350 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,949 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,579,823 Input Tokens, 382,781 Output Tokens
+🔤 1,895,533 Input Tokens, 425,086 Output Tokens
 
 💵 $8.86 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 67 AI Prompts
+🧠 16 AI Sessions, 77 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 DeepSeek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 949 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📄 Detailed Prompter — average 879 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -193,7 +193,7 @@ Java                     4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gauravyad69/gauravyad69/main/assets/bar_graph.png)
 
 
- Last Updated on 24/09/2026 21:41:01 UTC
+ Last Updated on 25/09/2026 21:45:54 UTC
 <!--END_SECTION:waka-->
 </div>
 ---
