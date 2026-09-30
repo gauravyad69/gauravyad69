@@ -85,9 +85,9 @@
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-320%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-321%20hrs-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-140%20hrs%2056%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-141%20hrs%2018%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -130,41 +130,42 @@ Sunday                   519 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-Other                    43 mins             ████████████████░░░░░░░░░   65.46 % 
-TypeScript               12 mins             █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
-Markdown                 9 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+Other                    44 mins             ████████████░░░░░░░░░░░░░   49.35 % 
+Markdown                 16 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
+PHP                      15 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+TypeScript               12 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
 
 🔥 Editors: 
-OpenCode                 42 mins             ████████████████░░░░░░░░░   64.04 % 
-OpenClaw                 24 mins             █████████░░░░░░░░░░░░░░░░   35.96 % 
+OpenCode                 1 hr 5 mins         ██████████████████░░░░░░░   72.71 % 
+OpenClaw                 24 mins             ███████░░░░░░░░░░░░░░░░░░   27.29 % 
 
 🐱‍💻 Projects: 
-eclassify                25 mins             ██████████░░░░░░░░░░░░░░░   38.09 % 
-workspace                24 mins             █████████░░░░░░░░░░░░░░░░   35.96 % 
-matching_discord         13 mins             █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
-rr3                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
+eclassify                47 mins             █████████████░░░░░░░░░░░░   53.31 % 
+workspace                24 mins             ███████░░░░░░░░░░░░░░░░░░   27.29 % 
+matching_discord         13 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
+rr3                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
 
 💻 Operating System: 
-Linux                    1 hr 6 mins         █████████████████████████   100.00 % 
+Linux                    1 hr 29 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 6 mins (100.0%)
+⏱ AI Coding Time: 1 hr 29 mins (100.0%)
 
-✍️ 614 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 701 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 539,050 Input Tokens, 80,935 Output Tokens
+🔤 559,507 Input Tokens, 106,214 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 13 AI Prompts
+🧠 8 AI Sessions, 18 AI Prompts
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 382 characters per prompt
+📝 Concise Prompter — average 353 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -186,7 +187,7 @@ Java                     4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gauravyad69/gauravyad69/main/assets/bar_graph.png)
 
 
- Last Updated on 29/09/2026 22:30:37 UTC
+ Last Updated on 30/09/2026 22:29:29 UTC
 <!--END_SECTION:waka-->
 </div>
 ---
