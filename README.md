@@ -130,42 +130,38 @@ Sunday                   519 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-Other                    44 mins             ████████████░░░░░░░░░░░░░   49.35 % 
-Markdown                 16 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
-PHP                      15 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-TypeScript               12 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+Other                    26 mins             ███████████░░░░░░░░░░░░░░   45.90 % 
+Markdown                 16 mins             ███████░░░░░░░░░░░░░░░░░░   27.26 % 
+PHP                      15 mins             ███████░░░░░░░░░░░░░░░░░░   26.84 % 
 
 🔥 Editors: 
-OpenCode                 1 hr 5 mins         ██████████████████░░░░░░░   72.71 % 
-OpenClaw                 24 mins             ███████░░░░░░░░░░░░░░░░░░   27.29 % 
+OpenCode                 45 mins             ███████████████████░░░░░░   76.81 % 
+OpenClaw                 13 mins             ██████░░░░░░░░░░░░░░░░░░░   23.19 % 
 
 🐱‍💻 Projects: 
-eclassify                47 mins             █████████████░░░░░░░░░░░░   53.31 % 
-workspace                24 mins             ███████░░░░░░░░░░░░░░░░░░   27.29 % 
-matching_discord         13 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
-rr3                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
+eclassify                45 mins             ███████████████████░░░░░░   76.81 % 
+workspace                13 mins             ██████░░░░░░░░░░░░░░░░░░░   23.19 % 
 
 💻 Operating System: 
-Linux                    1 hr 29 mins        █████████████████████████   100.00 % 
+Linux                    58 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 29 mins (100.0%)
+⏱ AI Coding Time: 58 mins (100.0%)
 
-✍️ 701 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 87 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 559,507 Input Tokens, 106,214 Output Tokens
+🔤 243,379 Input Tokens, 63,283 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 18 AI Prompts
+🧠 4 AI Sessions, 8 AI Prompts
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 353 characters per prompt
+📝 Concise Prompter — average 285 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -187,7 +183,7 @@ Java                     4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gauravyad69/gauravyad69/main/assets/bar_graph.png)
 
 
- Last Updated on 30/09/2026 22:29:29 UTC
+ Last Updated on 01/10/2026 22:52:00 UTC
 <!--END_SECTION:waka-->
 </div>
 ---
