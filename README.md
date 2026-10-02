@@ -87,9 +87,9 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-321%20hrs-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-141%20hrs%2018%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-141%20hrs%2024%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -130,38 +130,41 @@ Sunday                   519 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-Other                    26 mins             ███████████░░░░░░░░░░░░░░   45.90 % 
-Markdown                 16 mins             ███████░░░░░░░░░░░░░░░░░░   27.26 % 
-PHP                      15 mins             ███████░░░░░░░░░░░░░░░░░░   26.84 % 
+Other                    33 mins             █████████████░░░░░░░░░░░░   50.99 % 
+Markdown                 16 mins             ██████░░░░░░░░░░░░░░░░░░░   24.70 % 
+PHP                      15 mins             ██████░░░░░░░░░░░░░░░░░░░   24.32 % 
 
 🔥 Editors: 
-OpenCode                 45 mins             ███████████████████░░░░░░   76.81 % 
-OpenClaw                 13 mins             ██████░░░░░░░░░░░░░░░░░░░   23.19 % 
+OpenCode                 45 mins             █████████████████░░░░░░░░   69.59 % 
+OpenClaw                 13 mins             █████░░░░░░░░░░░░░░░░░░░░   21.01 % 
+VS Code                  6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
 
 🐱‍💻 Projects: 
-eclassify                45 mins             ███████████████████░░░░░░   76.81 % 
-workspace                13 mins             ██████░░░░░░░░░░░░░░░░░░░   23.19 % 
+eclassify                51 mins             ████████████████████░░░░░   78.99 % 
+workspace                13 mins             █████░░░░░░░░░░░░░░░░░░░░   21.01 % 
 
 💻 Operating System: 
-Linux                    58 mins             █████████████████████████   100.00 % 
+Linux                    1 hr 4 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 58 mins (100.0%)
+⏱ AI Coding Time: 1 hr 4 mins (100.0%)
 
 ✍️ 87 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 243,379 Input Tokens, 63,283 Output Tokens
+🔤 583,983 Input Tokens, 75,238 Output Tokens
 
-💵 $0.00 Estimated AI Cost This Week
+💵 $7.44 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 8 AI Prompts
+🧠 6 AI Sessions, 14 AI Prompts
+
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 285 characters per prompt
+📝 Concise Prompter — average 310 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -183,7 +186,7 @@ Java                     4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gauravyad69/gauravyad69/main/assets/bar_graph.png)
 
 
- Last Updated on 01/10/2026 22:52:00 UTC
+ Last Updated on 02/10/2026 22:27:16 UTC
 <!--END_SECTION:waka-->
 </div>
 ---
