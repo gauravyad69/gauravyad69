@@ -85,9 +85,9 @@
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-336%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-337%20hrs%2046%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-158%20hrs%206%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-159%20hrs%2038%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -95,7 +95,7 @@
 
 > 📦 1.3 MB Used in GitHub's Storage 
  > 
-> 🏆 410 Contributions in the Year 2026
+> 🏆 412 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -106,20 +106,20 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                323 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
-🌆 Daytime                1179 commits        ████████░░░░░░░░░░░░░░░░░   32.74 % 
-🌃 Evening                1840 commits        █████████████░░░░░░░░░░░░   51.10 % 
+🌞 Morning                325 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+🌆 Daytime                1179 commits        ████████░░░░░░░░░░░░░░░░░   32.73 % 
+🌃 Evening                1839 commits        █████████████░░░░░░░░░░░░   51.05 % 
 🌙 Night                  259 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   444 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
+Monday                   443 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
 Tuesday                  402 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
-Wednesday                636 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
+Wednesday                638 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
 Thursday                 514 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
 Friday                   492 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
-Saturday                 594 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
+Saturday                 594 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
 Sunday                   519 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
 ```
 
@@ -130,46 +130,48 @@ Sunday                   519 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-Other                    1 hr 22 mins        ██████░░░░░░░░░░░░░░░░░░░   25.14 % 
-QML                      1 hr 8 mins         █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
-Markdown                 48 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
-PHP                      41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
-XML                      22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+Other                    1 hr 23 mins        █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
+Markdown                 1 hr 13 mins        █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
+QML                      1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
+Python                   1 hr                ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
+PHP                      25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
 
 🔥 Editors: 
-OpenCode                 4 hrs 46 mins       ██████████████████████░░░   87.15 % 
-OpenClaw                 33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
-VS Code                  8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+OpenCode                 4 hrs 27 mins       █████████████████░░░░░░░░   67.83 % 
+Opencode Cli             1 hr 26 mins        █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
+OpenClaw                 34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
+VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
 
 🐱‍💻 Projects: 
-eclassify                2 hrs 37 mins       ████████████░░░░░░░░░░░░░   47.72 % 
-dotfiles                 1 hr 16 mins        ██████░░░░░░░░░░░░░░░░░░░   23.29 % 
-mrhell                   49 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
-workspace                33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
-karkhoj                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+eclassify                2 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   33.10 % 
+rr3                      1 hr 31 mins        ██████░░░░░░░░░░░░░░░░░░░   23.19 % 
+dotfiles                 1 hr 16 mins        █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
+mrhell                   49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+workspace                34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
 
 💻 Operating System: 
-Linux                    5 hrs 29 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 29 mins (100.0%)
+⏱ AI Coding Time: 6 hrs 34 mins (100.0%)
 
-✍️ 2,450 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 4,491 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,758,503 Input Tokens, 582,793 Output Tokens
+🔤 4,220,107 Input Tokens, 682,581 Output Tokens
 
-💵 $11.52 Estimated AI Cost This Week
+💵 $27.68 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 62 AI Prompts
+🧠 18 AI Sessions, 64 AI Prompts
 
+Opus                     1,695 lines         █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 274 characters per prompt
+📝 Concise Prompter — average 314 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -191,7 +193,7 @@ Java                     4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gauravyad69/gauravyad69/main/assets/bar_graph.png)
 
 
- Last Updated on 06/10/2026 22:45:55 UTC
+ Last Updated on 07/10/2026 23:16:31 UTC
 <!--END_SECTION:waka-->
 </div>
 ---
