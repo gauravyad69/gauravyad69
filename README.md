@@ -89,7 +89,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-164%20hrs%2055%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -130,44 +130,43 @@ Sunday                   521 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-Python                   3 hrs 6 mins        ██████████████░░░░░░░░░░░   57.80 % 
-Markdown                 1 hr 48 mins        ████████░░░░░░░░░░░░░░░░░   33.61 % 
-JavaScript               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
-Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
-Image (png)              5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+Markdown                 1 hr 4 mins         ██████████████░░░░░░░░░░░   55.04 % 
+Python                   43 mins             █████████░░░░░░░░░░░░░░░░   37.48 % 
+Image (png)              5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
+Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
 
 🔥 Editors: 
-Opencode Cli             4 hrs 38 mins       ██████████████████████░░░   86.33 % 
-OpenCode                 37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
-OpenClaw                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+Opencode Cli             1 hr 32 mins        ████████████████████░░░░░   79.83 % 
+OpenCode                 20 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
+OpenClaw                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
 
 🐱‍💻 Projects: 
-rr3                      5 hrs 15 mins       ████████████████████████░   97.94 % 
-workspace                6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+rr3                      1 hr 53 mins        ████████████████████████░   97.34 % 
+workspace                3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
 
 💻 Operating System: 
-Linux                    5 hrs 22 mins       █████████████████████████   100.00 % 
+Linux                    1 hr 56 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 22 mins (100.0%)
+⏱ AI Coding Time: 1 hr 56 mins (100.0%)
 
-✍️ 3,984 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 939 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 9,306,275 Input Tokens, 305,154 Output Tokens
+🔤 1,778,681 Input Tokens, 128,845 Output Tokens
 
-💵 $78.38 Estimated AI Cost This Week
+💵 $23.85 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 40 AI Prompts
+🧠 6 AI Sessions, 26 AI Prompts
 
-Opus                     3,684 lines         █████████████████████████   100.00 % 
+Opus                     725 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 283 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📝 Concise Prompter — average 301 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -188,7 +187,7 @@ Java                     4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gauravyad69/gauravyad69/main/assets/bar_graph.png)
 
 
- Last Updated on 15/10/2026 21:37:21 UTC
+ Last Updated on 16/10/2026 21:29:40 UTC
 <!--END_SECTION:waka-->
 </div>
 ---
