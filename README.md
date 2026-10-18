@@ -85,9 +85,9 @@
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-342%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-344%20hrs%2029%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-164%20hrs%2055%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-166%20hrs%2055%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -130,42 +130,46 @@ Sunday                   521 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-Markdown                 1 hr 4 mins         ██████████████░░░░░░░░░░░   55.04 % 
-Python                   43 mins             █████████░░░░░░░░░░░░░░░░   37.48 % 
-Image (png)              5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
-Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+Other                    1 hr 18 mins        ████████░░░░░░░░░░░░░░░░░   32.29 % 
+PHP                      59 mins             ██████░░░░░░░░░░░░░░░░░░░   24.50 % 
+Dart                     30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
+Image (png)              29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+Python                   25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
 
 🔥 Editors: 
-Opencode Cli             1 hr 32 mins        ████████████████████░░░░░   79.83 % 
-OpenCode                 20 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
-OpenClaw                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+OpenCode                 2 hrs 36 mins       ████████████████░░░░░░░░░   64.57 % 
+Opencode Cli             1 hr 11 mins        ███████░░░░░░░░░░░░░░░░░░   29.44 % 
+OpenClaw                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
 
 🐱‍💻 Projects: 
-rr3                      1 hr 53 mins        ████████████████████████░   97.34 % 
-workspace                3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+eclassify                1 hr 34 mins        ██████████░░░░░░░░░░░░░░░   38.96 % 
+rr3                      1 hr 30 mins        █████████░░░░░░░░░░░░░░░░   37.34 % 
+mrhell                   34 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
+workspace                14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
+karkhoj                  8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 
 💻 Operating System: 
-Linux                    1 hr 56 mins        █████████████████████████   100.00 % 
+Linux                    4 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 56 mins (100.0%)
+⏱ AI Coding Time: 4 hrs 1 min (100.0%)
 
-✍️ 939 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,201 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,778,681 Input Tokens, 128,845 Output Tokens
+🔤 1,804,672 Input Tokens, 490,759 Output Tokens
 
-💵 $23.85 Estimated AI Cost This Week
+💵 $20.58 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 26 AI Prompts
+🧠 12 AI Sessions, 49 AI Prompts
 
-Opus                     725 lines           █████████████████████████   100.00 % 
+Opus                     436 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 301 characters per prompt
+📝 Concise Prompter — average 166 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -187,7 +191,7 @@ Java                     4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gauravyad69/gauravyad69/main/assets/bar_graph.png)
 
 
- Last Updated on 17/10/2026 20:49:19 UTC
+ Last Updated on 18/10/2026 20:58:53 UTC
 <!--END_SECTION:waka-->
 </div>
 ---
