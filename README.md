@@ -95,7 +95,7 @@
 
 > 📦 1.3 MB Used in GitHub's Storage 
  > 
-> 🏆 443 Contributions in the Year 2026
+> 🏆 452 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -106,21 +106,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                328 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
-🌆 Daytime                1207 commits        ████████░░░░░░░░░░░░░░░░░   33.22 % 
-🌃 Evening                1839 commits        █████████████░░░░░░░░░░░░   50.62 % 
-🌙 Night                  259 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
+🌞 Morning                328 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
+🌆 Daytime                1207 commits        ████████░░░░░░░░░░░░░░░░░   33.17 % 
+🌃 Evening                1845 commits        █████████████░░░░░░░░░░░░   50.70 % 
+🌙 Night                  259 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   443 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
-Tuesday                  402 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
-Wednesday                640 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
-Thursday                 517 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
-Friday                   492 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
-Saturday                 618 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
-Sunday                   521 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
+Monday                   443 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
+Tuesday                  402 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
+Wednesday                640 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
+Thursday                 517 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
+Friday                   492 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
+Saturday                 624 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
+Sunday                   521 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
 ```
 
 
@@ -130,49 +130,49 @@ Sunday                   521 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-Other                    1 hr 3 mins         ██████░░░░░░░░░░░░░░░░░░░   24.95 % 
-PHP                      59 mins             ██████░░░░░░░░░░░░░░░░░░░   23.27 % 
-C                        42 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
-Bash                     35 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
-Dart                     30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
+PHP                      59 mins             ███████░░░░░░░░░░░░░░░░░░   26.38 % 
+C                        42 mins             █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
+Bash                     35 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
+Other                    33 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
+Dart                     30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
 
 🔥 Editors: 
-OpenCode                 2 hrs 16 mins       █████████████░░░░░░░░░░░░   53.42 % 
-Copilot CLI              1 hr 22 mins        ████████░░░░░░░░░░░░░░░░░   32.42 % 
-OpenClaw                 20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
-VS Code                  15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+OpenCode                 1 hr 49 mins        ████████████░░░░░░░░░░░░░   48.92 % 
+Copilot CLI              1 hr 22 mins        █████████░░░░░░░░░░░░░░░░   36.75 % 
+OpenClaw                 16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+VS Code                  15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
 
 🐱‍💻 Projects: 
-eclassify                1 hr 34 mins        █████████░░░░░░░░░░░░░░░░   37.01 % 
-Canon-LBP2900B           1 hr 23 mins        ████████░░░░░░░░░░░░░░░░░   32.75 % 
-mrhell                   48 mins             █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
-workspace                20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
-karkhoj                  8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+eclassify                1 hr 24 mins        █████████░░░░░░░░░░░░░░░░   37.73 % 
+Canon-LBP2900B           1 hr 23 mins        █████████░░░░░░░░░░░░░░░░   37.12 % 
+mrhell                   31 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+workspace                16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+karkhoj                  8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
 
 💻 Operating System: 
-Linux                    4 hrs 14 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 13 mins (99.67%)
+⏱ AI Coding Time: 3 hrs 43 mins (99.62%)
 
 ✍️ 887 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,191,690 Input Tokens, 403,606 Output Tokens
+🔤 1,173,613 Input Tokens, 376,363 Output Tokens
 
 💵 $3.03 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 59 AI Prompts
+🧠 8 AI Sessions, 44 AI Prompts
 
 Opencode-Cli             86 lines            █████████████████░░░░░░░░   68.25 % 
 GPT                      40 lines            ████████░░░░░░░░░░░░░░░░░   31.75 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 190 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📝 Concise Prompter — average 174 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -193,7 +193,7 @@ Java                     4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gauravyad69/gauravyad69/main/assets/bar_graph.png)
 
 
- Last Updated on 23/10/2026 21:36:08 UTC
+ Last Updated on 24/10/2026 21:03:29 UTC
 <!--END_SECTION:waka-->
 </div>
 ---
