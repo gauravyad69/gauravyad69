@@ -85,9 +85,9 @@
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-347%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-348%20hrs%2021%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-170%20hrs%2055%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-171%20hrs%2048%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -130,46 +130,52 @@ Sunday                   497 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-C                        42 mins             ████████░░░░░░░░░░░░░░░░░   30.10 % 
-Other                    41 mins             ███████░░░░░░░░░░░░░░░░░░   29.84 % 
-Bash                     35 mins             ██████░░░░░░░░░░░░░░░░░░░   25.61 % 
-Markdown                 20 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
+Other                    1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   21.16 % 
+Python                   42 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
+C                        42 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
+Markdown                 37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
+Bash                     35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
 
 🔥 Editors: 
-Copilot CLI              1 hr 22 mins        ███████████████░░░░░░░░░░   59.08 % 
-VS Code                  50 mins             █████████░░░░░░░░░░░░░░░░   36.16 % 
-OpenClaw                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Opencode Cli             1 hr 49 mins        █████████░░░░░░░░░░░░░░░░   37.09 % 
+Copilot CLI              1 hr 35 mins        ████████░░░░░░░░░░░░░░░░░   32.25 % 
+VS Code                  34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
+OpenClaw                 31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
+OpenCode                 23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
 
 🐱‍💻 Projects: 
-Canon-LBP2900B           1 hr 23 mins        ███████████████░░░░░░░░░░   59.69 % 
-mrhell                   48 mins             █████████░░░░░░░░░░░░░░░░   35.03 % 
-workspace                6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-karkhoj                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
-rr3                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Canon-LBP2900B           1 hr 41 mins        █████████░░░░░░░░░░░░░░░░   34.31 % 
+rr3                      1 hr 27 mins        ███████░░░░░░░░░░░░░░░░░░   29.74 % 
+workspace                35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
+Projects                 33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
+mrhell                   26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
 
 💻 Operating System: 
-Linux                    2 hrs 19 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 18 mins (99.39%)
+⏱ AI Coding Time: 4 hrs 53 mins (99.71%)
 
-✍️ 122 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 3,991 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 480,616 Input Tokens, 62,876 Output Tokens
+🔤 852,674 Input Tokens, 290,400 Output Tokens
 
-💵 $25.93 Estimated AI Cost This Week
+💵 $45.98 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 28 AI Prompts
+🧠 20 AI Sessions, 80 AI Prompts
 
-Opencode-Cli             86 lines            █████████████████░░░░░░░░   68.25 % 
-GPT                      40 lines            ████████░░░░░░░░░░░░░░░░░   31.75 % 
+DeepSeek                 1,382 lines         ██████████████████████░░░   88.76 % 
+Opencode-Cli             86 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
+GLM                      49 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+GPT                      40 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+Nemotron                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 165 characters per prompt
+📝 Concise Prompter — average 346 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -191,7 +197,7 @@ Java                     4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gauravyad69/gauravyad69/main/assets/bar_graph.png)
 
 
- Last Updated on 25/10/2026 21:03:40 UTC
+ Last Updated on 26/10/2026 22:50:45 UTC
 <!--END_SECTION:waka-->
 </div>
 ---
