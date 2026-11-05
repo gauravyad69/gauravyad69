@@ -85,9 +85,9 @@
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-396%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-398%20hrs%2020%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-226%20hrs%2043%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-229%20hrs%206%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -130,52 +130,52 @@ Sunday                   504 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-TypeScript               15 hrs 41 mins      ██████████░░░░░░░░░░░░░░░   39.53 % 
-Markdown                 9 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   23.67 % 
-Other                    5 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
-JavaScript               2 hrs 18 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
-JSON                     1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+TypeScript               22 hrs 16 mins      █████████████░░░░░░░░░░░░   51.28 % 
+Markdown                 7 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
+Other                    5 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
+JavaScript               2 hrs 12 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
+Bash                     1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
 
 🔥 Editors: 
-Opencode Cli             15 hrs 3 mins       █████████░░░░░░░░░░░░░░░░   37.94 % 
-OpenCode                 13 hrs 57 mins      █████████░░░░░░░░░░░░░░░░   35.18 % 
-OpenClaw                 3 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
-Copilot CLI              2 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
-VS Code                  2 hrs 13 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+Opencode Cli             23 hrs 36 mins      ██████████████░░░░░░░░░░░   54.34 % 
+OpenCode                 13 hrs 39 mins      ████████░░░░░░░░░░░░░░░░░   31.46 % 
+OpenClaw                 2 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
+VS Code                  1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+Codex Vscode             51 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
 
 🐱‍💻 Projects: 
-dmall                    32 hrs 1 min        ████████████████████░░░░░   80.68 % 
-workspace                3 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
-mrhell                   2 hrs 21 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
-rr3                      1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
-karkhoj                  27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+dmall                    36 hrs 5 mins       █████████████████████░░░░   83.08 % 
+workspace                2 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
+mrhell                   2 hrs 17 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+rr3                      1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+karkhoj                  27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
 
 💻 Operating System: 
-Linux                    39 hrs 41 mins      █████████████████████████   100.00 % 
+Linux                    43 hrs 25 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 39 hrs 41 mins (100.0%)
+⏱ AI Coding Time: 43 hrs 25 mins (100.0%)
 
-✍️ 43,118 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 33,057 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 46,155,224 Input Tokens, 2,929,477 Output Tokens
+🔤 54,895,647 Input Tokens, 2,498,912 Output Tokens
 
-💵 $1294.61 Estimated AI Cost This Week
+💵 $1420.28 Estimated AI Cost This Week
 
-🧠 50 AI Sessions, 493 AI Prompts
+🧠 43 AI Sessions, 448 AI Prompts
 
-Opencode-Cli             10,080 lines        █████████████████░░░░░░░░   67.69 % 
-GLM                      1,738 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
-DeepSeek                 1,699 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
-GPT                      1,375 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
-Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opencode-Cli             9,559 lines         ██████████████████████░░░   86.30 % 
+GPT                      966 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
+DeepSeek                 543 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+GLM                      8 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+M                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 624 characters per prompt
+📄 Detailed Prompter — average 684 characters per prompt
 🔁 Iterative Prompter — average 10 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -197,7 +197,7 @@ Java                     4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gauravyad69/gauravyad69/main/assets/bar_graph.png)
 
 
- Last Updated on 05/11/2026 10:35:03 UTC
+ Last Updated on 05/11/2026 23:48:02 UTC
 <!--END_SECTION:waka-->
 </div>
 ---
