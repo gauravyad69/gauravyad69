@@ -130,48 +130,45 @@ Sunday                   504 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-Other                    1 hr 43 mins        ██████████░░░░░░░░░░░░░░░   38.54 % 
-C                        1 hr 22 mins        ████████░░░░░░░░░░░░░░░░░   30.89 % 
-TypeScript               27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
-Bash                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
-Markdown                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+Other                    1 hr 21 mins        ████████████████░░░░░░░░░   65.36 % 
+TypeScript               27 mins             ██████░░░░░░░░░░░░░░░░░░░   22.54 % 
+Lua                      12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+QML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 
 🔥 Editors: 
-Opencode Cli             4 hrs 57 mins       ████████████████████████░   96.92 % 
-OpenClaw                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
-OpenCode                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+Opencode Cli             2 hrs 49 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Canon-LBP2900B           2 hrs 12 mins       ████████████░░░░░░░░░░░░░   49.40 % 
-mrhell                   1 hr 38 mins        █████████░░░░░░░░░░░░░░░░   36.66 % 
-dmall                    29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
-workspace                6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
-dotfiles                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+mrhell                   1 hr 33 mins        ███████████████████░░░░░░   75.66 % 
+dmall                    29 mins             ██████░░░░░░░░░░░░░░░░░░░   23.46 % 
+dotfiles                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Linux                    4 hrs 27 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 27 mins (100.0%)
+⏱ AI Coding Time: 2 hrs 4 mins (100.0%)
 
-✍️ 1,645 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 292 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 11,026,469 Input Tokens, 242,955 Output Tokens
+🔤 4,747,869 Input Tokens, 136,320 Output Tokens
 
-💵 $216.92 Estimated AI Cost This Week
+💵 $200.62 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 48 AI Prompts
+🧠 3 AI Sessions, 19 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 DeepSeek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 149 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
+📝 Concise Prompter — average 128 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -192,7 +189,7 @@ Java                     4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gauravyad69/gauravyad69/main/assets/bar_graph.png)
 
 
- Last Updated on 12/11/2026 00:56:07 UTC
+ Last Updated on 12/11/2026 23:46:52 UTC
 <!--END_SECTION:waka-->
 </div>
 ---
