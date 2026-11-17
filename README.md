@@ -130,17 +130,17 @@ Sunday                   504 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-TypeScript               27 mins             █████████████░░░░░░░░░░░░   50.34 % 
-Other                    26 mins             ████████████░░░░░░░░░░░░░   47.62 % 
-Bash                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+TypeScript               27 mins             █████████████░░░░░░░░░░░░   50.81 % 
+Other                    25 mins             ████████████░░░░░░░░░░░░░   47.13 % 
+Bash                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
 
 🔥 Editors: 
-Opencode Cli             52 mins             ████████████████████████░   95.22 % 
-OpenCode                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+Opencode Cli             52 mins             ████████████████████████░   95.33 % 
+OpenCode                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
 
 🐱‍💻 Projects: 
-dmall                    29 mins             █████████████░░░░░░░░░░░░   52.38 % 
-mrhell                   26 mins             ████████████░░░░░░░░░░░░░   47.62 % 
+dmall                    29 mins             █████████████░░░░░░░░░░░░   52.87 % 
+mrhell                   25 mins             ████████████░░░░░░░░░░░░░   47.13 % 
 
 💻 Operating System: 
 Linux                    55 mins             █████████████████████████   100.00 % 
@@ -153,19 +153,19 @@ Linux                    55 mins             ███████████�
 
 ✍️ 93 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 3,166,636 Input Tokens, 32,063 Output Tokens
+🔤 3,161,079 Input Tokens, 31,525 Output Tokens
 
-💵 $40.41 Estimated AI Cost This Week
+💵 $40.25 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 12 AI Prompts
+🧠 2 AI Sessions, 11 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 DeepSeek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 111 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📝 Concise Prompter — average 115 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -186,7 +186,7 @@ Java                     4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gauravyad69/gauravyad69/main/assets/bar_graph.png)
 
 
- Last Updated on 15/11/2026 23:04:24 UTC
+ Last Updated on 17/11/2026 01:58:31 UTC
 <!--END_SECTION:waka-->
 </div>
 ---
