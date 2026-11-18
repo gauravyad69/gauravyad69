@@ -89,7 +89,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-231%20hrs%2010%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -186,7 +186,7 @@ Java                     4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gauravyad69/gauravyad69/main/assets/bar_graph.png)
 
 
- Last Updated on 17/11/2026 01:58:31 UTC
+ Last Updated on 18/11/2026 01:07:01 UTC
 <!--END_SECTION:waka-->
 </div>
 ---
