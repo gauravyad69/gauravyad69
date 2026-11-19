@@ -85,9 +85,9 @@
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-399%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-399%20hrs%2034%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-231%20hrs%2010%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-232%20hrs%2013%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -130,41 +130,43 @@ Sunday                   504 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-TypeScript               27 mins             █████████████░░░░░░░░░░░░   50.81 % 
-Other                    25 mins             ████████████░░░░░░░░░░░░░   47.13 % 
-Bash                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+Other                    31 mins             ████████████░░░░░░░░░░░░░   49.94 % 
+Markdown                 27 mins             ███████████░░░░░░░░░░░░░░   44.09 % 
+Java Properties          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+Groovy                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 
 🔥 Editors: 
-Opencode Cli             52 mins             ████████████████████████░   95.33 % 
-OpenCode                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+Opencode Cli             58 mins             ███████████████████████░░   93.63 % 
+OpenCode                 3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
 
 🐱‍💻 Projects: 
-dmall                    29 mins             █████████████░░░░░░░░░░░░   52.87 % 
-mrhell                   25 mins             ████████████░░░░░░░░░░░░░   47.13 % 
+mrhell                   31 mins             ████████████░░░░░░░░░░░░░   49.94 % 
+karkhoj                  29 mins             ████████████░░░░░░░░░░░░░   47.49 % 
+autoshareapply           1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
 
 💻 Operating System: 
-Linux                    55 mins             █████████████████████████   100.00 % 
+Linux                    1 hr 2 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 55 mins (100.0%)
+⏱ AI Coding Time: 1 hr 2 mins (100.0%)
 
-✍️ 93 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 263 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 3,161,079 Input Tokens, 31,525 Output Tokens
+🔤 729,788 Input Tokens, 114,202 Output Tokens
 
-💵 $40.25 Estimated AI Cost This Week
+💵 $16.56 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 11 AI Prompts
+🧠 2 AI Sessions, 12 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-DeepSeek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 115 characters per prompt
+📄 Detailed Prompter — average 615 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -186,7 +188,7 @@ Java                     4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gauravyad69/gauravyad69/main/assets/bar_graph.png)
 
 
- Last Updated on 18/11/2026 01:07:01 UTC
+ Last Updated on 19/11/2026 00:38:54 UTC
 <!--END_SECTION:waka-->
 </div>
 ---
