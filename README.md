@@ -85,9 +85,9 @@
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-405%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-408%20hrs%2024%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-238%20hrs%209%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-241%20hrs%203%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -130,38 +130,38 @@ Sunday                   504 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-JavaScript               2 hrs 50 mins       ██████████░░░░░░░░░░░░░░░   40.66 % 
-Markdown                 1 hr 6 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
-Dart                     44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
-TypeScript               37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
-Other                    31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
+JavaScript               5 hrs 12 mins       █████████████░░░░░░░░░░░░   52.62 % 
+Markdown                 1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
+JSON                     50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
+TypeScript               46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
+Dart                     44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
 
 🔥 Editors: 
-Opencode Cli             5 hrs 42 mins       ████████████████████░░░░░   81.91 % 
-OpenCode                 1 hr 15 mins        █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
+Opencode Cli             8 hrs 11 mins       █████████████████████░░░░   82.83 % 
+OpenCode                 1 hr 41 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
 
 🐱‍💻 Projects: 
-dmall                    4 hrs 15 mins       ███████████████░░░░░░░░░░   61.04 % 
-karkhoj                  2 hrs 7 mins        ████████░░░░░░░░░░░░░░░░░   30.50 % 
-mrhell                   33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
-autoshareapply           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+dmall                    7 hrs 9 mins        ██████████████████░░░░░░░   72.50 % 
+karkhoj                  2 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   21.53 % 
+mrhell                   33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+autoshareapply           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 💻 Operating System: 
-Linux                    6 hrs 58 mins       █████████████████████████   100.00 % 
+Linux                    9 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 58 mins (100.0%)
+⏱ AI Coding Time: 9 hrs 52 mins (100.0%)
 
-✍️ 2,422 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 3,137 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 11,998,750 Input Tokens, 450,996 Output Tokens
+🔤 21,265,314 Input Tokens, 649,922 Output Tokens
 
-💵 $211.16 Estimated AI Cost This Week
+💵 $336.10 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 47 AI Prompts
+🧠 7 AI Sessions, 74 AI Prompts
 
 Tencent Hy               845 lines           █████████████████████████   98.26 % 
 DeepSeek                 15 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
@@ -170,7 +170,7 @@ GPT                      0 lines             ░░░░░░░░░░░�
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
 📝 Concise Prompter — average 300 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
+🔁 Iterative Prompter — average 11 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -191,7 +191,7 @@ Java                     4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gauravyad69/gauravyad69/main/assets/bar_graph.png)
 
 
- Last Updated on 20/11/2026 00:46:46 UTC
+ Last Updated on 21/11/2026 00:07:04 UTC
 <!--END_SECTION:waka-->
 </div>
 ---
