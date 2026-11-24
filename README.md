@@ -85,9 +85,9 @@
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-412%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-412%20hrs%2028%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-244%20hrs%2056%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-245%20hrs%2033%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -95,7 +95,7 @@
 
 > 📦 1.3 MB Used in GitHub's Storage 
  > 
-> 🏆 554 Contributions in the Year 2026
+> 🏆 555 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -107,14 +107,14 @@
 
 ```text
 🌞 Morning                333 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
-🌆 Daytime                1197 commits        ████████░░░░░░░░░░░░░░░░░   32.75 % 
-🌃 Evening                1845 commits        █████████████░░░░░░░░░░░░   50.48 % 
+🌆 Daytime                1197 commits        ████████░░░░░░░░░░░░░░░░░   32.74 % 
+🌃 Evening                1846 commits        █████████████░░░░░░░░░░░░   50.49 % 
 🌙 Night                  280 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   444 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
+Monday                   445 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
 Tuesday                  400 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
 Wednesday                642 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
 Thursday                 538 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
@@ -130,38 +130,39 @@ Sunday                   504 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-JavaScript               8 hrs 16 mins       ███████████████░░░░░░░░░░   60.13 % 
-Markdown                 1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
-TypeScript               1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
-JSON                     50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
-Dart                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+JavaScript               8 hrs 16 mins       ██████████████░░░░░░░░░░░   57.55 % 
+Markdown                 1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+TypeScript               1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
+JSON                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+Other                    44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
 
 🔥 Editors: 
-Opencode Cli             10 hrs 58 mins      ████████████████████░░░░░   79.74 % 
-OpenCode                 2 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
+Opencode Cli             11 hrs 29 mins      ████████████████████░░░░░   79.91 % 
+OpenCode                 2 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
 
 🐱‍💻 Projects: 
-dmall                    11 hrs 2 mins       ████████████████████░░░░░   80.26 % 
-karkhoj                  2 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
-mrhell                   33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
-autoshareapply           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+dmall                    11 hrs 20 mins      ████████████████████░░░░░   78.90 % 
+karkhoj                  2 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
+mrhell                   47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+dotfiles                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+autoshareapply           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 💻 Operating System: 
-Linux                    13 hrs 45 mins      █████████████████████████   100.00 % 
+Linux                    14 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 45 mins (100.0%)
+⏱ AI Coding Time: 14 hrs 22 mins (100.0%)
 
-✍️ 4,993 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 5,491 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 23,046,647 Input Tokens, 904,111 Output Tokens
+🔤 23,517,527 Input Tokens, 925,324 Output Tokens
 
-💵 $512.54 Estimated AI Cost This Week
+💵 $526.81 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 108 AI Prompts
+🧠 13 AI Sessions, 114 AI Prompts
 
 Tencent Hy               1,794 lines         █████████████████████████   99.17 % 
 DeepSeek                 15 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
@@ -169,8 +170,8 @@ GPT                      0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 446 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
+📝 Concise Prompter — average 426 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -191,7 +192,7 @@ Java                     4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gauravyad69/gauravyad69/main/assets/bar_graph.png)
 
 
- Last Updated on 22/11/2026 23:44:08 UTC
+ Last Updated on 24/11/2026 04:03:13 UTC
 <!--END_SECTION:waka-->
 </div>
 ---
