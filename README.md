@@ -130,47 +130,47 @@ Sunday                   510 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-JavaScript               5 hrs 29 mins       █████████████░░░░░░░░░░░░   50.41 % 
-PHP                      58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
-Markdown                 47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
-Dart                     44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
-Python                   40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
+JavaScript               3 hrs 5 mins        ██████████░░░░░░░░░░░░░░░   38.96 % 
+PHP                      58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
+Dart                     44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
+Markdown                 42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
+Python                   40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
 
 🔥 Editors: 
-Opencode Cli             8 hrs 35 mins       ████████████████████░░░░░   79.00 % 
-OpenCode                 2 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
+Opencode Cli             6 hrs 5 mins        ███████████████████░░░░░░   76.68 % 
+OpenCode                 1 hr 51 mins        ██████░░░░░░░░░░░░░░░░░░░   23.32 % 
 
 🐱‍💻 Projects: 
-dmall                    7 hrs 8 mins        ████████████████░░░░░░░░░   65.58 % 
-eclassify                2 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   22.24 % 
-mrhell                   1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
-dotfiles                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
-autoshareapply           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+dmall                    4 hrs 12 mins       █████████████░░░░░░░░░░░░   52.89 % 
+eclassify                2 hrs 25 mins       ████████░░░░░░░░░░░░░░░░░   30.43 % 
+mrhell                   1 hr 7 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
+dotfiles                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+autoshareapply           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 
 💻 Operating System: 
-Linux                    10 hrs 52 mins      █████████████████████████   100.00 % 
+Linux                    7 hrs 56 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 52 mins (100.0%)
+⏱ AI Coding Time: 7 hrs 56 mins (100.0%)
 
-✍️ 4,192 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 3,461 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 13,839,143 Input Tokens, 661,854 Output Tokens
+🔤 4,555,175 Input Tokens, 461,098 Output Tokens
 
-💵 $393.58 Estimated AI Cost This Week
+💵 $266.75 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 98 AI Prompts
+🧠 14 AI Sessions, 71 AI Prompts
 
 Tencent Hy               1,673 lines         █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 445 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
+📄 Detailed Prompter — average 500 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -191,7 +191,7 @@ Java                     4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gauravyad69/gauravyad69/main/assets/bar_graph.png)
 
 
- Last Updated on 27/11/2026 01:53:08 UTC
+ Last Updated on 28/11/2026 01:35:01 UTC
 <!--END_SECTION:waka-->
 </div>
 ---
